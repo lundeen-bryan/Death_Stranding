@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "0eecc08def3594d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1554900c79eff8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee80b6c84354b234",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bafac4abfcb5194",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6b7d9d89e989db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e760f44b93770d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "767f3580d7fe53e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b3f14f1a90fcc6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfc87f31ceada7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "11ec1b45868bdf8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961049e03663a354",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/fragile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b9b818d29fd1b563",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/fragile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c496b8482dbbb852",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12723853ac9384df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9addbc87267a69c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ee80b6c84354b234",
+  "lastOpenFiles": [
+    "Personal Log/lake_knot_city_an_ocean_beyond_the_private_room_door.md",
+    "Personal Log/bb_likes_when_making_faces_in_the_mirror.md",
+    "Characters/fragile.md",
+    "Items/bridges_cap.md",
+    "Items/sunglasses.md",
+    "Items/gordon_glasses.md",
+    "Interviews/the_chiral_network_i.md",
+    "Interviews/cryptobiotes.md",
+    "Interviews/the_discovery_of_beaches_and_the_concept_of_death.md",
+    "Interviews/chiralium.md",
+    "Interviews/chiral_contamination_i.md",
+    "Interviews/timefall.md",
+    "Interviews/necrosis_and_the_ancient_egyptian_view_of_life_and_death.md",
+    "Interviews/chiral_symmetry.md",
+    "Interviews/bridge_babies.md",
+    "Interviews/humanity_s_biggest_problem_logistics.md",
+    "Interviews/mules_and_drone_syndrome.md",
+    "Interviews",
+    "Mail/thanks_for_the_ludens_man.md",
+    "Mail/still_alive_new_guy.md",
+    "Mail/sorry_sam_bad_news.md",
+    "Mail/our_hard_work_is_paying_off.md",
+    "Mail/more_than_oxy.md",
+    "Mail/cargo_condition_and_your_porter_grades.md",
+    "Mail/lambda_you_really_are_the_great_deliverer.md",
+    "Mail/lambda_how_about_taking_a_break_in_a_private_room.md",
+    "Mail/test_order_lambda_i_want_you_to_look_for_some_lost_cargo.md"
+  ]
+}
