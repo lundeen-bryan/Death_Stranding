@@ -1,6 +1,8 @@
 ---
 type: order
 order: 010
+likes: 42
+grade: 059
 ---
 
 # Order 010 - Construction: Bridge
@@ -20,3 +22,5 @@ Construct a bridge
 
 - 42 likes
 - porter grade 059
+
+#missions
