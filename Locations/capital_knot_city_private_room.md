@@ -5,8 +5,6 @@ location: "Capital Knot City"
 category: "Private Rooms"
 ---
 
-#locations
-
 # Capital Knot City — Private Room
 
 ## Floor inscription
@@ -22,3 +20,12 @@ The marking might be an identification number for the room or facility. This is 
 ## Source
 
 *Observed in DeathStranding_ 134.jpg. Location identified by the player. Small print and barcode digits have not been transcribed.*
+
+## Tasks
+
+![[to_do_list#^listen-pop-virus]]
+
+[[to_do_list#^listen-pop-virus|Open this task in the TODO list]]
+
+#locations
+

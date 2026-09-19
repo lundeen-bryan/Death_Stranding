@@ -6,8 +6,6 @@ location: "Lake Knot City"
 date_time: "09/12 17:21"
 ---
 
-#mail
-
 # All About Preppers
 
 **Sender:** William Lake  
@@ -29,3 +27,10 @@ And now they finally do, thanks to you. Could be the skeptics might finally come
 
 - [[preppers|Preppers]] — Fragile explains the history of preppers and their reliance on couriers.
 - [[why_join_the_uca|Why Join the UCA]] — The Elder offers a prepper's perspective on joining the UCA.
+
+## Related task
+
+[[to_do_list#^read-prepper-interviews|Read the available prepper interviews]].
+
+#mail
+

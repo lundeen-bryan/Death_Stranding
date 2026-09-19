@@ -20,9 +20,14 @@ A port city on the crater lake at Ground Zero. It connects the Eastern Region wi
 
 ## Notes
 
+## Tasks
+
+![[to_do_list#^ludens-fan-port-knot-delivery]]
+
+[[to_do_list#^ludens-fan-port-knot-delivery|Open this task in the TODO list]]
+
 ## Sources
 
 - [Death Stranding Wiki — Port Knot City](https://deathstranding.fandom.com/wiki/Port_Knot_City)
 
 #locations
-

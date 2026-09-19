@@ -5,8 +5,6 @@ location: "Lake Knot City"
 category: "Private Rooms"
 ---
 
-#locations
-
 # Lake Knot City - Private Room
 
 ## Floor marking
@@ -27,3 +25,12 @@ Observed in `DeathStranding_ 003.jpg` (Lake Knot City private-room floor screens
 
 - [[capital_knot_city_private_room|Capital Knot City - Private Room]] — Another private-room floor marking for comparison.
 - [[lake_knot_city_an_ocean_beyond_the_private_room_door|Lake Knot City - An Ocean Beyond the Private Room Door]] — A personal recollection of a cutscene in this location.
+
+## Tasks
+
+![[to_do_list#^listen-pop-virus]]
+
+[[to_do_list#^listen-pop-virus|Open this task in the TODO list]]
+
+#locations
+

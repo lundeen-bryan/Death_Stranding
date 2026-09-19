@@ -12,6 +12,8 @@ Temporary checklist from the Mail processed on 2026-09-15, updated with reported
 
 ## New orders
 
+- [ ] **Deliver [[Locations/ludens_fan|the Ludens Fan]]'s item to Viktor Frank at [[Locations/port_knot_city|Port Knot City]].** At the Ludens Fan's delivery terminal, check available orders for this delivery. See [[Mail/order_delivery_to_port_knot_city|[Order] Delivery to Port Knot City]]. Mail received 09/18 19:01; acceptance and completion not yet reported. The message does not specify the cargo name or order number. ^ludens-fan-port-knot-delivery
+
 - [ ] **Recover the new cube from the ruined factory west-northwest of the Craftsman's shelter, beside a highway.** Return it to **Distribution Center South of Lake Knot City**. See [[test_order_lambda_sorry_more_lost_cargo_for_you|Test Order λ Sorry. More Lost Cargo for You...]]. Received 09/15 18:16; completion not reported. This is a different location from the earlier MULE-camp cube request.
 
 - [x] **Retrieve J's second V chip for Lake Knot City.** Completed, reported on 2026-09-15. Rewards: **Yaiba Kusanagi reverse trike** and a **compass upgrade for shorting sensor poles**. See [[v_the_mists_are_clearing_thanks_to_you|V The Mists Are Clearing, Thanks to You]] and [[recovery_request_v_retrieve_my_chip_from_the_mules|Recovery Request V Retrieve My Chip from the MULEs]].
@@ -26,6 +28,9 @@ Temporary checklist from the Mail processed on 2026-09-15, updated with reported
 - [ ] **Investigate the glowing object at the incinerator.** Follow George Baton's lead from the **Waystation West of Capital Knot City**. His account mentions nearby BTs. The mail does not identify the object or give a formal order. See [[a_strange_light_at_the_incinerator|A Strange Light at the Incinerator]].
 
 ## Optional visits and equipment reminders
+
+- [ ] **Listen to "Pop Virus" in a private room.** Optional music recommendation from [[Mail/to_the_man_who_delivers_i_m_sorry|Nick Easton's mail]]. Can be done in any private room, including [[Locations/capital_knot_city_private_room|Capital Knot City]] or [[Locations/lake_knot_city_private_room|Lake Knot City]]. ^listen-pop-virus
+- [ ] **Read the available prepper interviews.** Optional reading suggested in [[Mail/all_about_preppers|All About Preppers]]; no travel required. Vault entries include [[Interviews/prepper_interview_the_junk_dealer|The Junk Dealer]] and [[Interviews/prepper_interview_the_timefall_farmers|The Timefall Farmers]]. ^read-prepper-interviews
 
 - [ ] Try the **hologram generator** for concealment from MULEs. See [[the_amazing_potential_of_hologram_generators|The Amazing Potential of Hologram Generators]] and [[hiding_from_enemy_scanners|Hiding From Enemy Scanners]]; related research reminder in [[mission_log|Mission Log]].
 - [ ] Try the **odradek feature supplied by the Timefall Farmers**. The mail does not name the feature. See [[slaves_to_the_wheat|Slaves to the Wheat]].
