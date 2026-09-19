@@ -4,7 +4,7 @@ title: "You've Got to Go the Extra Mile!"
 sender: "William Lake"
 location: "Lake Knot City"
 date_time: "09/12 20:28"
-transcription_status: "incomplete"
+transcription_status: "complete"
 ---
 
 #mail
@@ -27,8 +27,13 @@ Hey, I get it. It’s a lot more work for you, tracking down lost cargo, returni
 
 I'm serious. Next time you complete an order, take a closer look at your results. See if there isn't ==a symbol next to your Likes which indicates that you got them for performing tasks related to the Miscellaneous Grade== [Miscellaneous Grade icon]. You might be surprised.
 
-*[The message continues below the screenshot; the remaining text is not transcribed.]*
+It may all seem like a hassle right now, Sam, but having a good Miscellaneous Grade will get you more likes, ==and you can never have too many Likes!==
 
 ---
-*Transcribed from DeathStranding_ 007.jpg. Decorative reaction icons omitted. Original yellow highlights preserved.*
+*Originally transcribed from DeathStranding_ 007.jpg; ending completed from the supplied 09/19 14:14 mail screenshots on 2026-09-19. Original recorded mail timestamp retained. Decorative reaction icons omitted. Original yellow highlights preserved.*
 
+## Screenshot reference
+
+The screenshot preserves the custom Miscellaneous Grade icon next to the highlighted explanation.
+
+![[Misc_Tips/Attachments/mail_extra_mile_ending_2026-09-19.jpg]]

@@ -4,7 +4,7 @@ title: "[V] Thank You, Sam Porter Bridges"
 sender: "Your partner \"J\""
 location: null
 date_time: "09/13 00:14"
-transcription_status: "incomplete"
+transcription_status: "complete"
 ---
 
 #mail
@@ -15,9 +15,9 @@ transcription_status: "incomplete"
 **Location:** Not shown  
 **Date & Time:** 09/13 00:14
 
-*[The beginning of the message is not visible in the screenshot.]*
+I have no clue who I am.
 
-the chip. That I know. That and a bridge. Sam Porter Bridges. This Bridges used the data on the chip to activate my systems. To wake me. Wake my ass up.
+But you. You I know. You are Sam. Sam I am not. Sam the man. Man, mano, you have the chip. That I know. That and a bridge. Sam Porter Bridges. This Bridges used the data on the chip to activate my systems. To wake me. Wake my ass up.
 
 This is not my world, Sam. What is my world, what am I – it isn’t me. If–then, if that computes. Do you know what it feels like? I feel like someone crawled inside, slotted into my skull and took a bat to my bytes. My memory is wiped, broken, I don’t know, I can’t remember, I can’t, I don’t, no recall. But... bitchin'. Won't make it better?
 
@@ -29,10 +29,13 @@ If that's not good enough for you, well... the deal, I will sweeten the deal. I 
 
 Anyway. You don't gotta worry about losing sight of your destination when making deliveries. Not now. Now you can set it so it’s always on. ==Open up compass mode and focus on your destination marker to give it a try.==
 
-So that's the pitch, Sam Porter Bridges. Find me more chips. For me. For you, Sam. I
-
-*[The message continues below the screenshot.]*
+So that's the pitch, Sam Porter Bridges. Find me more chips. For me. For you, Sam. I don't know, you never know, you can't know what other goodies you might get out of it, y'know?
 
 ---
 *Transcribed from DeathStranding_ 020.jpg. Decorative reaction icons omitted. Original yellow highlights preserved.*
 
+*Beginning and ending completed on 2026-09-19 from the supplied screenshots of mail dated 09/19 18:04. Earlier recorded timestamp retained.*
+
+## Related mission
+
+[[Missions/071_v_recovery_chip_engraved_with_a_mysterious_symbol|Order 071 — V-chip recovery]]

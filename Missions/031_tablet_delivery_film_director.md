@@ -23,4 +23,5 @@ Player report on 2026-09-14. The reported wording "Film Directory" has been norm
 
 ## Related notes
 
+- [[Locations/film_director|Film Director]] — location, connection rewards, and the "Sam" sunglasses reward for this order.
 - [[mission_log|Mission Log]] — Arrival at the distribution center and order tracking.
