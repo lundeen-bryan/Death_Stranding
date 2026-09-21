@@ -27,3 +27,10 @@ I've tried to make up for it. My daughter's leaving the nest at last, and I coul
 
 - [[we_got_married|We Got Married!]]
 - [[to_do_list|TO DO List]] — optional social visit, with no formal order specified.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:07**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/please_look_out_for_them.jpg]]

@@ -5,7 +5,11 @@ order_number: 229
 order_type: "Standard Order"
 origin: "Timefall Farm"
 destination: "Distribution Center South of Lake Knot City"
-status: "Canceled — player reported"
+status: completed
+likes: 144
+lost_cargo_likes: 112
+grade: 171
+completion_reported: 2026-09-19
 ---
 
 #missions
@@ -13,6 +17,12 @@ status: "Canceled — player reported"
 # 229 - Delivery (Fragile): Timefall Porter
 
 ## Personal progress
+
+### Completed — 2026-09-19
+
+Completed **Standard Order 229 — Delivery (Fragile): Timefall Porter** from Timefall Farm to [[Locations/distribution_center_south_of_lake_knot_city|Distribution Center South of Lake Knot City]]. Earned **144 Likes for the order**, plus **112 Likes for picking up lost cargo** (256 Likes combined). My porter grade is now **171**, recorded in the `grade` property. The lost-cargo Likes are tracked separately from the order's Likes. The cancellation below is earlier history.
+
+### Earlier attempt
 
 I'm working on this order and have ended up at the Craftsman's location after something went wrong. I thought I might need to go back to the Timefall Farm. I'm considering using Redeploy Cargo to see whether it lets me skip the order. I have not yet reported doing so.
 
@@ -39,7 +49,9 @@ On 2026-09-14, I opened the Redeploy Cargo confirmation. The screenshot shows th
 > Cargo carried for this order will be returned to where it was when you undertook the order. Are you sure you want to proceed?
 > Cargo collected at a delivery terminal will be returned to that terminal's private locker.
 
-- [ ] When I return to **Timefall Farm**, check whether Order 229 is available to accept again if I want to retry it. The cancellation notice specifies a wait of **up to 6 hours**. This replaces the earlier cargo-retrieval reminder.
+![[to_do_list#^timefall-porter-delivery]]
+
+[[to_do_list#^timefall-porter-delivery|Open completed delivery task]]. The order is now completed; the earlier cancellation notice is retained above as history.
 
 This is a reminder recorded in the note, not an automatic in-game location alert.
 

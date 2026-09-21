@@ -30,3 +30,10 @@ When you're up for it, you'll find the gig order waiting for you at **Lake Knot 
 - [[recovery_request_v_track_down_a_chip_with_a_weird_symbol_on_it|Recovery Request V Track Down a Chip with a Weird Symbol on It]]
 - [[v_thank_you_sam_porter_bridges|V Thank You, Sam Porter Bridges]]
 - [[to_do_list|TO DO List]] — second chip; accept the new order at Lake Knot City, then use its map update to locate the MULE postbox. Acceptance and completion have not been reported.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:00**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/recovery_request_v_retrieve_my_chip_from_the_mules.jpg]]

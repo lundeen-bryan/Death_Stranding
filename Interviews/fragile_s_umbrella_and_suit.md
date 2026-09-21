@@ -27,3 +27,7 @@ But who knows. Names and theories are just ways of coping with things we don't r
 ## Related notes
 
 - [[fast_travel_jumping_with_fragile|Fast Travel (Jumping with Fragile)]] — The gameplay use of Fragile's jumps and their cargo restrictions.
+
+*Verified against DeathStranding_ 002.jpg, supplied 2026-09-20; the full text already existed.*
+
+Related: [[Interviews/fragile_s_father_and_fragile_express|Fragile's Father and Fragile Express]].

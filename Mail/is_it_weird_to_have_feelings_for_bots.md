@@ -24,3 +24,9 @@ Not that you don't understand. You've got a BB. They may tell you it's just equi
 
 ---
 *Transcribed from DeathStranding_ 003.jpg (Otter Hood and birthday cake batch, 2026-09-15). Decorative reaction icons omitted.*
+
+## Screenshot supplied 2026-09-20
+
+Verified against the same message dated **09/20 16:52**. Original reaction symbols are preserved below; the earlier archived timestamp is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_evening/feelings_for_bots.jpg]]

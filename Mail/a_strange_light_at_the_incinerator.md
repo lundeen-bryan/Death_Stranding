@@ -28,3 +28,10 @@ Somehow I make it into the incinerator without getting grabbed, and that's when 
 ## Related notes
 
 - [[to_do_list|TO DO List]] — optional investigation; the mail does not identify the glowing object or give a formal order.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:55**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/a_strange_light_at_the_incinerator.jpg]]

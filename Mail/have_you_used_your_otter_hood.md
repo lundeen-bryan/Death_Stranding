@@ -31,3 +31,16 @@ I want to share her passion with the whole world. That's why I persuaded her to 
 
 - [[be_sure_to_use_your_otter_hood|Be Sure to Use Your Otter Hood!]]
 - [[cosplayer_otter_head|Cosplayer - Otter Head]]
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:30**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/have_you_used_your_otter_hood.jpg]]
+
+## Follow-up visit
+
+![[to_do_list#^cosplayer-uca-visit]]
+
+Location: [[Locations/cosplayer|Cosplayer]]. Manage completion in [[to_do_list|TO DO List]].

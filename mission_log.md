@@ -52,3 +52,19 @@ title: Mission Log
 
 
 Doesn't really matter how fast we complete this order Mama still says "What took you so long?" I stumbled and fell a few times. I don't know how to do the "stumble run" that I see a lot of people do in this game. Note that we have BB-28. I couldn't figure out how to "Like" ladders or structures left behind for me to use. During the beginning of episode 2 there's a lot of explanation from the staff. I get access to the private room and use the restroom. I go ahead and use all three amenities. Then examine the weapons rack. Mama suddenly introduces herself. Then check BB and the uniform. Just anything that has a "!" icon means check it out. I go ahead and set my glasses to "gold" colored while I'm here. There's 19 more items added to the manual. There's one memory chip when you get close to the waystation west of capital knot city.
+
+- `22:20` order 37, 90 likes
+- `22:29` order 391 delivery top quality underwear 94 likes and I get the truck!!!
+
+## Sunday 20 September
+
+- `08:04` //_Let's go!_
+- `08:04` order 072 v-chip from Mules, gain cargo trike and 118 likes, porter grade 185
+- `08:13` order 419 delivery powerful sleeping tablets 338 Likes and order 421 deliver pacemaker to elder, 223 likes and porter grade 188
+- `08:24` delivery to southerland, 70 likes. Grade 189
+- `09:19` order 206 deliver custom -made polishing tools to the chiral artist's mother. Get the anti-bt handgun level 2 for doing that! 182 likes, porter grade 190. Also I got chiral boots which might be lighter.
+- `09:48` order 81 delivery: vog-preserved water-soluble resources for material development. I got 1,116 likes for this plus the chiral bridge! And long-range truck level 2! porter grade 195.
+- `10:10` order 212 from craftsman to Distro south of lake knot. 193 likes. Note I'm barely 5 stars with them. I'm trying to make all the locations 5 stars before I go to the next area because it's pretty hard. grade 196.
+- `10:15` order 453 materials delivery: resins and special alloys to craftsman from distro. 206 likes. Then I get the __bola gun 2__. The craftsman is still only 3 stars. Grade 196.
+- `13:18` order 405 get video games for collector in mule camp then you need to get 3 stars for the backpack cover, 4 stars to change color
+- `13:23` //_break_

@@ -27,3 +27,16 @@ We should all embrace our place in the world. There was a time when I tried to s
 
 - [[have_you_used_your_otter_hood|Have You Used Your Otter Hood]]
 - [[cosplayer_otter_head|Cosplayer - Otter Head]]
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:30**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/be_sure_to_use_your_otter_hood.jpg]]
+
+## Equipment reminder
+
+![[to_do_list#^try-otter-hood]]
+
+Manage completion in [[to_do_list|TO DO List]].

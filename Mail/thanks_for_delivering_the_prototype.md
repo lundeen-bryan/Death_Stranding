@@ -27,3 +27,10 @@ By the way, we've got a few more designs we're working on, so if you like the lo
 
 - [[to_do_list|TO DO List]] — optional visit to see the Junk Dealer's designs.
 - [[mission_log|Mission Log]] — this mail acknowledges delivery of the prototype samples; it does not show an order number or truck fabrication screen.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:15**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/thanks_for_delivering_the_prototype.jpg]]

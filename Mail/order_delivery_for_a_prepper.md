@@ -32,3 +32,10 @@ There's no one better when it comes to designing and making clothes and accessor
 ## Related notes
 
 - [[to_do_list|TO DO List]] — sewing-kit delivery to the Cosplayer. Check the sender's distribution center for the order; the mail does not explicitly state its pickup point or order number. Acceptance and completion have not been reported.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 04:55**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/order_delivery_for_a_prepper.jpg]]

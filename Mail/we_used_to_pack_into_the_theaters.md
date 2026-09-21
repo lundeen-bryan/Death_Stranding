@@ -27,3 +27,10 @@ It was a far cry from the golden age of film—from when the silver screen reign
 
 - [[31_tablet_delivery_film_director|31 - Tablet Delivery - Film Director]]
 
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 03:42**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/we_used_to_pack_into_the_theaters.jpg]]

@@ -28,6 +28,14 @@ A Bridges distribution center beside a river and along Route 23, which connects 
 
 ## Tasks
 
+![[to_do_list#^timefall-porter-delivery]]
+
+[[to_do_list#^timefall-porter-delivery|Open beer delivery task]]
+
+![[to_do_list#^southerland-mule-cube-check]]
+
+[[to_do_list#^southerland-mule-cube-check|Open MULE-camp cube recovery task]]
+
 ![[to_do_list#^southerland-v-chip]]
 
 [[to_do_list#^southerland-v-chip|Open V-chip recovery task]]
@@ -48,3 +56,4 @@ A Bridges distribution center beside a river and along Route 23, which connects 
 - [Death Stranding Wiki — Lake Knot City](https://deathstranding.fandom.com/wiki/Lake_Knot_City) — facility amenities.
 
 #locations
+

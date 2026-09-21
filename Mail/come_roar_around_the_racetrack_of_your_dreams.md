@@ -38,3 +38,12 @@ Good luck, Sam. I'm looking forward to seeing you race into the sunset and into 
 ## Related notes
 
 - [[to_do_list|TO DO List]] — build the racetrack, then try racing for the Roadster fabrication unlock. Material quantities and qualifying results are not specified in this mail.
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 05:15**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/come_roar_around_the_racetrack_of_your_dreams.jpg]]
+
+![[Misc_Tips/Attachments/2026_09_20_review/racetrack_continued.jpg]]

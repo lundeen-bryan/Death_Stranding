@@ -32,7 +32,7 @@ The sunglasses are an order reward; you do not need to reach five stars to recei
 
 ## My progress
 
-[[Missions/031_tablet_delivery_film_director|Order 031 — Tablet Delivery: Film Director]] records arrival on 2026-09-14. Completion and the delivery evaluation remain unconfirmed in that note; current connection level is not recorded.
+Completed [[Missions/031_tablet_delivery_film_director|Order 031 — Tablet Delivery: Film Director]], reported 2026-09-19, earning **130 Likes**. This is the order that rewards **"Sam" sunglasses**. Current connection level is not recorded.
 
 ## Related notes
 

@@ -20,3 +20,9 @@ When on the itinerary screen:
 
 ---
 *Transcribed from DeathStranding_ 033.jpg. Controller icons rendered as text.*
+
+## Screenshot
+
+![[Misc_Tips/Attachments/2026_09_20_evening/multiple_order_routes.jpg]]
+
+*Verified against DeathStranding_ 003.jpg, supplied 2026-09-20. The screenshot preserves the D-pad and Y button symbols.*

@@ -38,3 +38,9 @@ I reported receiving the new bike after recovering a V chip for **Lake Knot City
 
 - [[recovery_request_v_retrieve_my_chip_from_the_mules|Recovery Request V Retrieve My Chip from the MULEs]]
 - [[to_do_list|TO DO List]]
+
+## Screenshot supplied 2026-09-20
+
+The same reward mail appears with in-game timestamp **09/20 15:05**. This confirms the Yaiba Kusanagi and sensor-pole compass upgrades in the supplied session. The earlier archived timestamp is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_evening/v_the_mists_are_clearing.jpg]]

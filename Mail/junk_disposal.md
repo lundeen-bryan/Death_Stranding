@@ -35,3 +35,16 @@ Sources: [Order 35 walkthrough](https://samurai-gamers.com/death-stranding/order
 ## Related notes
 
 - [[mission_log|Mission Log]]
+
+
+## Screenshot supplied 2026-09-20
+
+Same message; this screenshot shows **09/20 03:49**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
+
+![[Misc_Tips/Attachments/2026_09_20_review/junk_disposal.jpg]]
+
+## Task
+
+![[to_do_list#^junk-disposal]]
+
+Location: [[Locations/junk_dealer|Junk Dealer]]. Manage completion in [[to_do_list|TO DO List]].
