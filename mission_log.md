@@ -68,3 +68,11 @@ Doesn't really matter how fast we complete this order Mama still says "What took
 - `10:15` order 453 materials delivery: resins and special alloys to craftsman from distro. 206 likes. Then I get the __bola gun 2__. The craftsman is still only 3 stars. Grade 196.
 - `13:18` order 405 get video games for collector in mule camp then you need to get 3 stars for the backpack cover, 4 stars to change color
 - `13:23` //_break_
+
+## Monday 21 September
+
+- `07:39` //_Let's start_
+- `07:39` star aquired by craftsman after delivering standard order and reaching 5 stars.
+- `07:43` order 447 and several other accompanying orders for the Engineer. Reaching 5 stars.
+- `08:00` rested in hot spring by craftsman for about 5 minutes.
+- `08:43` got 5 stars with Elder and cargo grade 30 which means I can keep my balance better. and Porter Grade 227.
