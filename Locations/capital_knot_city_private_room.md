@@ -11,7 +11,7 @@ category: "Private Rooms"
 
 The private room in Capital Knot City has the following prominent marking on the floor:
 
-> BRIDGES 1 | R-281
+> K2 Capital Knot City UCA-01-003
 
 There is also a barcode above the lettering and a building-shaped symbol to the right.
 
@@ -27,5 +27,8 @@ The marking might be an identification number for the room or facility. This is 
 
 [[to_do_list#^listen-pop-virus|Open this task in the TODO list]]
 
-#locations
+## Coordinates
 
+Capital Knot City (1431.92, 701.45)
+
+#locations
