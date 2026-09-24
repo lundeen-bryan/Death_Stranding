@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "The Odradek's BT Scanner"
 category: "Sam: Scanner & Detector"
+tags: [manual/sam/scanner-and-detector]
 ---
 
-#manual/sam/scanner-and-detector
+
 
 # The Odradek's BT Scanner
 

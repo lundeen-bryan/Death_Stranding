@@ -5,9 +5,10 @@ sender: "Your partner \"J\""
 location: null
 date_time: "09/13 00:14"
 transcription_status: "complete"
+tags: [mail]
 ---
 
-#mail
+
 
 # ==[V] Thank You, Sam Porter Bridges==
 

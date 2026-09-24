@@ -5,14 +5,15 @@ category: "Other"
 who: "Counselor"
 when: "Three Years Ago"
 where: "Bridges HQ"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # An Asexual World
 
-**Who:** Counselor  
-**When:** Three Years Ago  
+**Who:** Counselor
+**When:** Three Years Ago
 **Where:** Bridges HQ
 
 Records suggest that the widespread aversion towards physical contact and intimacy was a phenomenon that had been observed even before the Death Stranding. One contemporary report, for example, details the increasing popularity of the "sexless lifestyle" among young people. A growing percentage of the younger cohort were self-identifying as asexual, claiming to be incapable of feeling desire or attraction. Accordingly, such individuals were less likely to have children or engage in sexual activity.

@@ -3,6 +3,7 @@ type: order
 order: 023
 likes: 161
 grade: 144
+tags: [missions]
 ---
 
 # Order 023 - Retrieval: System Server
@@ -24,4 +25,4 @@ Retrieve the system server from the MULE camp that has mostly ceramics.
 - A significant mission because it unlocks both trike designs.
 - Story also reveals that Fragile might have collaborated with Higgs so she says to meet her at [[locations/distribution_center_south_of_lake_knot_city]]
 
-#missions
+

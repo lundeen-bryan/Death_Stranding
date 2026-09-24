@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [items]
 ---
 
 # Container Repair Spray
@@ -19,4 +20,3 @@ Unlock fabrication by completing [[missions/008_collection_chiral_crystals_distr
 
 ## Notes
 
-#items

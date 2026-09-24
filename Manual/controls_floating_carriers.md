@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Controls: Floating Carriers"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
-#manual/floating-carriers
+
 
 # Controls: Floating Carriers
 

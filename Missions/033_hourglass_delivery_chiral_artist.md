@@ -6,6 +6,7 @@ likes: 198
 rank: S
 completion_reported: 2026-09-19
 max_likes: 68
+tags: [missions]
 ---
 
 # Order 033 - Hourglass Delivery: Chiral Artist
@@ -34,4 +35,4 @@ Delivered the hourglass to the Chiral Artist after [[Missions/032_collection_old
 
 Player planning and completion reports, 2026-09-19. S is the delivery rank, stored separately from the numeric porter `grade` used elsewhere in the vault.
 
-#missions
+

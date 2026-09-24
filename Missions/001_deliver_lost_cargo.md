@@ -1,8 +1,9 @@
 ---
 date: 2026-09-10
+tags: [missions]
 ---
 
-#missions
+
 
 # Deliver Lost Cargo
 

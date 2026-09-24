@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Quick Controls for Placing Carriers"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
-#manual/floating-carriers
+
 
 # Quick Controls for Placing Carriers
 

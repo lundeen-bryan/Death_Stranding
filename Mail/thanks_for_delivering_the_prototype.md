@@ -4,9 +4,10 @@ title: "Thanks for Delivering the Prototype!"
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 22:04"
+tags: [mail]
 ---
 
-#mail
+
 
 # Thanks for Delivering the Prototype!
 

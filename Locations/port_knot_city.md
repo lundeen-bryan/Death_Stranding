@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [locations]
 ---
 
 # Port Knot City
@@ -30,4 +31,4 @@ A port city on the crater lake at Ground Zero. It connects the Eastern Region wi
 
 - [Death Stranding Wiki — Port Knot City](https://deathstranding.fandom.com/wiki/Port_Knot_City)
 
-#locations
+

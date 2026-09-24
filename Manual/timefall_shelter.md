@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Timefall Shelter"
 category: "Structures"
+tags: [manual/structures]
 ---
 
-#manual/structures
+
 
 # Timefall Shelter
 

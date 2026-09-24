@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [mail]
 ---
 
 # "Casualties of Twilight"
@@ -29,5 +30,5 @@ I really panicked once I'd heard it was gone. So yeah, thanks for bringing it ba
 ---
 *Transcribed from the supplied in-game screenshot. Icons are preserved in the screenshot.*
 
-#mail
+
 

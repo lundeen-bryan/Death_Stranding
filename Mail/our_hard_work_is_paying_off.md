@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # Our Hard Work Is Paying Off
@@ -23,5 +24,5 @@ I'm still not 100% on the details, but basically, transmitting it via the Beach 
 
 *Verified against the supplied 09/18 04:23 screenshot; original reaction icons are preserved above.*
 
-#mail
+
 

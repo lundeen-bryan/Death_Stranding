@@ -2,6 +2,7 @@
 date: 2026-09-16
 title: "Transporting Corpses"
 category: "Cargo: Cargo Types"
+tags: [manual/cargo/cargo-types]
 ---
 
 # Transporting Corpses
@@ -17,5 +18,5 @@ Corpses are more liable to sway from side to side than regular cargo. If you beg
 
 *Also verified against DeathStranding_ 014.jpg from the latest supplied batch.*
 
-#manual/cargo/cargo-types
+
 

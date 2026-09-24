@@ -4,9 +4,10 @@ title: "Re-establishing Shipping Lanes"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/13 01:00"
+tags: [mail]
 ---
 
-#mail
+
 
 # Re-establishing Shipping Lanes
 

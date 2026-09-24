@@ -4,9 +4,10 @@ title: "Porters Getting It Done"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/13 03:22"
+tags: [mail]
 ---
 
-#mail
+
 
 # Porters Getting It Done
 

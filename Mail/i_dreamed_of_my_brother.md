@@ -4,9 +4,10 @@ title: "I Dreamed of My Brother"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/12 16:48"
+tags: [mail]
 ---
 
-#mail
+
 
 # I Dreamed of My Brother
 

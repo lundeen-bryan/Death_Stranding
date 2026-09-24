@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Saving"
 category: "Saving"
+tags: [manual/saving]
 ---
 
-#manual/saving
+
 
 # Saving
 

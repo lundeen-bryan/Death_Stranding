@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Slopes of More Than 45 Degrees"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Slopes of More Than 45 Degrees
 

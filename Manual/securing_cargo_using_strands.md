@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Securing Cargo Using Strands"
 category: "Sam: Controls"
+tags: [manual/sam/controls]
 ---
 
-#manual/sam/controls
+
 
 # Securing Cargo Using Strands
 

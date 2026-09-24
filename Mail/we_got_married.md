@@ -4,9 +4,10 @@ title: "We Got Married!"
 sender: "The Chiral Artist"
 location: "S37-89"
 date_time: "09/14 21:51"
+tags: [mail]
 ---
 
-#mail
+
 
 # We Got Married!
 

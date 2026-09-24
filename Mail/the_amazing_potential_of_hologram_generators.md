@@ -4,9 +4,10 @@ title: "The Amazing Potential of Hologram Generators"
 sender: "The Film Director"
 location: "S23-71"
 date_time: "09/14 22:26"
+tags: [mail]
 ---
 
-#mail
+
 
 # The Amazing Potential of Hologram Generators
 

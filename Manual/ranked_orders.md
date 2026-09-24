@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Ranked Orders"
 category: "Rankings"
+tags: [manual/rankings]
 ---
 
-#manual/rankings
+
 
 # Ranked Orders
 

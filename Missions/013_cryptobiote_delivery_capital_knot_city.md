@@ -7,6 +7,7 @@ order_number: 13
 origin: "Distribution Center West of Capital Knot City"
 destination: "Capital Knot City"
 likes: 280
+tags: [missions]
 ---
 
 # Order 013 - Urgent Cryptobiote Delivery: Capital Knot City
@@ -38,4 +39,4 @@ For the unlock steps for the anti-BT weapon, see [[hematic_grenades|Hematic Gren
 
 - [PowerPyx — Death Stranding missions list](https://www.powerpyx.com/death-stranding-missions-list/) — identifies this delivery as Order No. 13 and lists the subsequent orders. The page includes later-game spoilers.
 
-#missions
+

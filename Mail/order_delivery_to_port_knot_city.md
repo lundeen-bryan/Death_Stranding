@@ -4,9 +4,10 @@ title: "[Order] Delivery to Port Knot City"
 sender: "The Ludens Fan"
 location: "S02-01"
 date_time: "09/12 16:23"
+tags: [mail]
 ---
 
-#mail
+
 
 # ==[Order] Delivery to Port Knot City==
 

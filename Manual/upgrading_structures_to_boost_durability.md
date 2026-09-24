@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Upgrading Structures to Boost Durability"
 category: "Structures: Upgrading Structures"
+tags: [manual/structures/upgrading-structures]
 ---
 
 # Upgrading Structures to Boost Durability
@@ -13,5 +14,5 @@ Structures are instantly fully repaired whenever they are upgraded.
 ---
 *Transcribed from DeathStranding_ 011.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/structures/upgrading-structures
+
 

@@ -3,6 +3,7 @@ type: order
 order: 014
 likes: 1029
 grade: 082
+tags: [missions]
 ---
 
 # Order 014 - Aid Package Delivery: Port Knot City
@@ -22,4 +23,3 @@ This goes through a major BT area so I just need to bring lots of grenades
 
 more likes for this than other missions before it.
 
-#missions

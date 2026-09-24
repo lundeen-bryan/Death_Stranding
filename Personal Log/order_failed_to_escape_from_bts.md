@@ -1,6 +1,7 @@
 ---
 date: 2026-09-20
 title: "Order Failed - Failed to Escape from BTs"
+tags: [personal-log]
 ---
 
 # Order Failed - Failed to Escape from BTs
@@ -13,4 +14,4 @@ The image does not identify the order number, cargo, location, or whether a retr
 
 *Source: DeathStranding_ 007.jpg. Recorded separately from mail, interviews, and manual tips.*
 
-#personal-log
+

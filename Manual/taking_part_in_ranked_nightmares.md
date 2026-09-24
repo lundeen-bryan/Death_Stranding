@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Taking Part in Ranked Nightmares"
 category: "Rankings"
+tags: [manual/rankings]
 ---
 
-#manual/rankings
+
 
 # Taking Part in Ranked Nightmares
 

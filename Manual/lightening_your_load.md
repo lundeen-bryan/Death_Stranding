@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Lightening Your Load"
 category: "Tools"
+tags: [manual/tools]
 ---
 
-#manual/tools
+
 
 # Lightening Your Load
 

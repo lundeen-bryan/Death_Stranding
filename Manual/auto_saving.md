@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Auto-saving"
 category: "Saving"
+tags: [manual/saving]
 ---
 
-#manual/saving
+
 
 # Auto-saving
 

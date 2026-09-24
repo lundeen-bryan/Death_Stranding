@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Enemy-Induced Adrenaline Rushes"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Enemy-Induced Adrenaline Rushes
 

@@ -4,6 +4,7 @@ order: 030
 likes: 142
 status: completed
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 030 - [URGENT] Old Component Delivery: Junk Dealer
@@ -32,4 +33,4 @@ Complete the urgent old-component delivery to the Junk Dealer.
 
 Player completion report and account of the encounter, 2026-09-19.
 
-#missions
+

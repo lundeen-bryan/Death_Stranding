@@ -4,6 +4,7 @@ title: "Kick Back with Some Timefall Porter!"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/20 00:55"
+tags: [mail]
 ---
 
 # Kick Back with Some Timefall Porter!
@@ -18,6 +19,6 @@ Thanks as always. I've sent you some Timefall Porter—the world's fastest-brewe
 
 *Transcribed from the supplied chat image. Decorative reaction icons omitted. The original screenshot path was unavailable when saving, so no local screenshot is embedded.*
 
-#mail
+
 
 

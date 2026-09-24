@@ -6,6 +6,7 @@ who: "Fragile"
 when: "One Year Ago"
 where: "Lake Knot City"
 transcription_status: complete
+tags: [interviews/fragile]
 ---
 
 # Fragile's Father and Fragile Express
@@ -33,4 +34,4 @@ My father's not with us any more, but the bond between us remains, fragile thoug
 - [[Interviews/fragile_s_umbrella_and_suit|Fragile's Umbrella and Suit]]
 - [[Mail/come_roar_around_the_racetrack_of_your_dreams|Come Roar Around the Racetrack of Your Dreams!]] — another reference to her father's work.
 
-#interviews/fragile
+

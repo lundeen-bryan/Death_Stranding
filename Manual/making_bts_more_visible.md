@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Making BTs More Visible"
 category: "Enemies: BTs"
+tags: [manual/enemies/bts]
 ---
 
-#manual/enemies/bts
+
 
 # Making BTs More Visible
 

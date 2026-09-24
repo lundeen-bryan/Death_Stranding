@@ -5,9 +5,10 @@ aliases:
   - Hematic Grenade
 location: "Capital Knot City"
 unlock: "Accept Order No. 14: Aid Package Delivery: Port Knot City"
+tags: [items]
 ---
 
-#items
+
 
 # Hematic Grenades
 

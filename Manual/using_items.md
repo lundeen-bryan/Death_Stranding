@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Using Items"
 category: "Item"
+tags: [manual/item]
 ---
 
-#manual/item
+
 
 # Using Items
 

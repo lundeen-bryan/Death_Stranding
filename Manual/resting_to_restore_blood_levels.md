@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Resting to Restore Blood Levels"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Resting to Restore Blood Levels
 

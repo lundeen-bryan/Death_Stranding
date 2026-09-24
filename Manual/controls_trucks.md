@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Controls: Trucks"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
-#manual/vehicles
+
 
 # Controls: Trucks
 

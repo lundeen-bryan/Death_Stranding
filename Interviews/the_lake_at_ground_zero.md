@@ -5,9 +5,10 @@ category: "Bridges Staff"
 who: "Viktor"
 when: "Two and a Half Years Ago"
 where: "Port Knot City"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # The Lake at Ground Zero
 

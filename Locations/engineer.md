@@ -1,5 +1,6 @@
 ---
 date: 2026-09-19
+tags: [locations]
 ---
 
 # The Engineer
@@ -37,4 +38,4 @@ When first linking you get power skeleton, then later when you deliver enough lo
 
 - [Death Stranding Wiki — Engineer](https://deathstranding.fandom.com/wiki/Engineer)
 
-#locations
+

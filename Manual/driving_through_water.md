@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Driving Through Water"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
-#manual/vehicles
+
 
 # Driving Through Water
 

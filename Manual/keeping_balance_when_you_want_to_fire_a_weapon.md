@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Keeping Balance When You Want to Fire a Weapon"
 category: "Tools"
+tags: [manual/tools]
 ---
 
-#manual/tools
+
 
 # Keeping Balance When You Want to Fire a Weapon
 

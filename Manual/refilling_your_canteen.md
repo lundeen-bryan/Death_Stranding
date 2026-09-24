@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Refilling your Canteen"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Refilling your Canteen
 

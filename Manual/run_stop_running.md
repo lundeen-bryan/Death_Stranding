@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Run/Stop Running"
 category: "Sam: Controls"
+tags: [manual/sam/controls]
 ---
 
-#manual/sam/controls
+
 
 # Run/Stop Running
 

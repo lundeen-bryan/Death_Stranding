@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [manual/vehicles]
 ---
 
 # Riding Your Bike Through Rivers and Wetlands
@@ -9,5 +10,5 @@ Riding over wet ground or through water will increase your bike's battery consum
 ---
 *Transcribed from the supplied in-game screenshot.*
 
-#manual/vehicles
+
 

@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # Still Alive, New Guy?
@@ -25,5 +26,5 @@ Anyway, both the recycling system and the share lockers have their uses, and itâ
 
 *Verified against DeathStranding_ 003.jpg (in-game date and time: 09/18 03:09).*
 
-#mail
+
 

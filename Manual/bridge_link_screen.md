@@ -3,9 +3,10 @@ date: 2026-09-08
 updated: 2026-09-15
 title: "The Bridge Link Screen"
 category: "Cuff Links: Bridge Links"
+tags: [manual/menu]
 ---
 
-#manual/menu
+
 
 # The Bridge Link Screen
 

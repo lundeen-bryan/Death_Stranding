@@ -3,6 +3,7 @@ date: 2026-09-14
 title: "Lake Knot City - Private Room"
 location: "Lake Knot City"
 category: "Private Rooms"
+tags: [locations]
 ---
 
 # Lake Knot City - Private Room
@@ -32,5 +33,5 @@ Observed in `DeathStranding_ 003.jpg` (Lake Knot City private-room floor screens
 
 [[to_do_list#^listen-pop-virus|Open this task in the TODO list]]
 
-#locations
+
 

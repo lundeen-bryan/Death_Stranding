@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Reflecting Online Information"
 category: "Online Features"
+tags: [manual/online-features]
 ---
 
-#manual/online-features
+
 
 # Reflecting Online Information
 

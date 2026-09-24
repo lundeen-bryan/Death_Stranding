@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Map Markers and Routes"
 category: "Cuff Links: Map"
+tags: [manual/cuff-links/map]
 ---
 
-#manual/cuff-links/map
+
 
 # Map Markers and Routes
 

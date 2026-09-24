@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Traversing Rivers"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Traversing Rivers
 

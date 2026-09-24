@@ -4,9 +4,10 @@ title: "Junk Disposal"
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 16:26"
+tags: [mail]
 ---
 
-#mail
+
 
 # Junk Disposal
 

@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [locations]
 ---
 
 # Ludens Fan
@@ -17,4 +18,4 @@ date: 2026-09-18
 
 Related mail: [[Mail/order_delivery_to_port_knot_city|[Order] Delivery to Port Knot City]].
 
-#locations
+

@@ -4,9 +4,10 @@ title: "[Test Order] [λ] Sorry. More Lost Cargo for You..."
 sender: "T Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 18:16"
+tags: [mail]
 ---
 
-#mail
+
 
 # **[Test Order] [λ] Sorry. More Lost Cargo for You...**
 

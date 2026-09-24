@@ -4,9 +4,10 @@ title: "Tell Amelie We're True Believers"
 sender: "Jake Wind"
 location: "Wind Farm"
 date_time: "09/12 17:29"
+tags: [mail]
 ---
 
-#mail
+
 
 # Tell Amelie We're True Believers
 

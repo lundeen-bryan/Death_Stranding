@@ -2,6 +2,7 @@
 date: 2026-09-19
 title: "Floating Carrier Wires"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
 # Floating Carrier Wires
@@ -14,4 +15,4 @@ The wires that attach floating carriers to your waist have a degree of elasticit
 
 *Transcribed from the supplied DeathStranding_ 014.jpg screenshot.*
 
-#manual/floating-carriers
+

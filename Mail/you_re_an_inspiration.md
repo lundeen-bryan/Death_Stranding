@@ -4,6 +4,7 @@ title: "You're an Inspiration"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/20 00:55"
+tags: [mail]
 ---
 
 # You're an Inspiration
@@ -20,6 +21,6 @@ You're a symbol. An inspiration. When people see you risking your neck for the r
 
 *Transcribed from the supplied chat image. Decorative reaction icons omitted. The original screenshot path was unavailable when saving, so no local screenshot is embedded.*
 
-#mail
+
 
 

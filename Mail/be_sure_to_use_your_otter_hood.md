@@ -4,9 +4,10 @@ title: "Be Sure to Use Your Otter Hood!"
 sender: "The Cosplayer"
 location: "S37-80"
 date_time: "09/15 15:31"
+tags: [mail]
 ---
 
-#mail
+
 
 # Be Sure to Use Your Otter Hood!
 

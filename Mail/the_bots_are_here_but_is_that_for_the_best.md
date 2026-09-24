@@ -4,9 +4,10 @@ title: "The Bots Are Here... But Is That for the Best?"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 12:13"
+tags: [mail]
 ---
 
-#mail
+
 
 # The Bots Are Here... But Is That for the Best?
 

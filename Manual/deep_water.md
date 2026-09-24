@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Deep Water"
 category: "Environmental Factors"
+tags: [manual/environmental-factors]
 ---
 
 # Deep Water
@@ -15,5 +16,5 @@ Use the scanner when crossing rivers and other bodies of water.
 ---
 *Transcribed from DeathStranding_ 017.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/environmental-factors
+
 

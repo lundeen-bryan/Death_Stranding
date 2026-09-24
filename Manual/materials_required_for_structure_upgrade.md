@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Materials Required for Structure Upgrade"
 category: "Structures: Upgrading Structures"
+tags: [manual/structures/upgrading-structures]
 ---
 
 # Materials Required for Structure Upgrade
@@ -11,5 +12,5 @@ You can check the number and type of materials required in order to upgrade a gi
 ---
 *Transcribed from DeathStranding_ 008.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/structures/upgrading-structures
+
 

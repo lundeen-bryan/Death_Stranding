@@ -2,6 +2,7 @@
 date: 2026-09-20
 title: "Chiral Bridges"
 category: "Structures"
+tags: [manual/structures]
 ---
 
 # Chiral Bridges
@@ -16,4 +17,4 @@ Hold the **Menu button** (three horizontal lines, shown below) to open the bridg
 
 *Transcribed from DeathStranding_ 011.jpg. Controller symbols preserved in the screenshot.*
 
-#manual/structures
+

@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Lost Cargo"
 category: "Cargo: Lost Cargo"
+tags: [manual/cargo/lost-cargo]
 ---
 
-#manual/cargo/lost-cargo
+
 
 # Lost Cargo
 

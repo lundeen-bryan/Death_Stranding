@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Cargo on Vehicles Near Delivery Terminals"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
 # Cargo on Vehicles Near Delivery Terminals
@@ -11,5 +12,5 @@ Cargo carried by vehicles can be submitted to delivery terminals directly withou
 ---
 *Transcribed from DeathStranding_ 005.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/vehicles
+
 

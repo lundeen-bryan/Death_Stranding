@@ -4,9 +4,10 @@ title: "Have You Used Your Otter Hood?"
 sender: "The Wandering MC"
 location: "S37-80"
 date_time: "09/15 15:31"
+tags: [mail]
 ---
 
-#mail
+
 
 # Have You Used Your Otter Hood?
 

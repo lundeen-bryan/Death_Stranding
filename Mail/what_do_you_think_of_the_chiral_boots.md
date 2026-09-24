@@ -4,6 +4,7 @@ title: "What Do You Think of the Chiral Boots?"
 sender: "The Chiral Artist's Mother"
 location: "S37-89"
 date_time: "09/20 16:52"
+tags: [mail]
 ---
 
 # What Do You Think of the Chiral Boots?
@@ -32,4 +33,4 @@ My daughter made several pairs like that, you know. She's really quite something
 
 ![[to_do_list#^try-chiral-boots]]
 
-#mail
+

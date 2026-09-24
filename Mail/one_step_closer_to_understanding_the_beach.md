@@ -4,9 +4,10 @@ title: "One Step Closer to Understanding the Beach"
 sender: "The Engineer"
 location: "S23-06"
 date_time: "09/13 01:00"
+tags: [mail]
 ---
 
-#mail
+
 
 # One Step Closer to Understanding the Beach
 

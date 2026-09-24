@@ -4,9 +4,10 @@ title: "Cairns"
 category: "Resting"
 aliases:
   - Cairn
+tags: [manual/resting]
 ---
 
-#manual/resting
+
 
 # Cairns
 

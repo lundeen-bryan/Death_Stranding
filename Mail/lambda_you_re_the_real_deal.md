@@ -4,9 +4,10 @@ title: "[λ] You're the Real Deal!"
 sender: "Thomas S"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 18:14"
+tags: [mail]
 ---
 
-#mail
+
 
 # [λ] You're the Real Deal!
 

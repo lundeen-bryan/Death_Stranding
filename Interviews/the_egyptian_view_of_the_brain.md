@@ -4,9 +4,10 @@ title: "The Egyptian View of the Brain"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # The Egyptian View of the Brain
 

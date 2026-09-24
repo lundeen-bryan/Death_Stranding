@@ -5,9 +5,10 @@ category: "Preppers"
 who: "The Junk Dealer"
 when: "Six Months Ago"
 where: "Personal Shelter"
+tags: [interviews/preppers]
 ---
 
-#interviews/preppers
+
 
 # Prepper Interview: The Junk Dealer
 

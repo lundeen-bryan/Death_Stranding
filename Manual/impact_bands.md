@@ -2,6 +2,7 @@
 date: 2026-09-16
 title: "Impact Bands"
 category: "Cargo"
+tags: [manual/cargo]
 ---
 
 # Impact Bands
@@ -15,5 +16,5 @@ Keep a careful eye on your impact bands in order to make sure that your cargo re
 
 *Verified against DeathStranding_ 009.jpg from the latest supplied screenshots.*
 
-#manual/cargo
+
 

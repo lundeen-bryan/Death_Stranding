@@ -4,9 +4,10 @@ title: "Sending You Likes!"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/12 07:47"
+tags: [mail]
 ---
 
-#mail
+
 
 # Sending You Likes!
 

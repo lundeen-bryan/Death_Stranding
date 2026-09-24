@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "UCA Membership and Increased Facility Functionality"
 category: "Other"
+tags: [manual/other]
 ---
 
-#manual/other
+
 
 # UCA Membership and Increased Facility Functionality
 

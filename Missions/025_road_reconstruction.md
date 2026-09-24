@@ -1,6 +1,7 @@
 ---
 type: order
 order: 025
+tags: [missions]
 ---
 
 # Order 025 - Road Reconstruction
@@ -21,4 +22,4 @@ Reconstruct Road 23-1.
 - Built **Road 23-1** and completed the road reconstruction on **2026-09-19**.
 - This is a significant mission because it gets the road started—the first completed section of my road network.
 
-#missions
+

@@ -5,9 +5,10 @@ who: "Mama"
 when: "Three Years Ago - Before First Expediti [clipped]"
 where: "Central Knot City HQ"
 transcription_status: "incomplete"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # The Chiral Network II
 

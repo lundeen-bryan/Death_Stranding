@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [mail]
 ---
 
 # Chiral Symmetry
@@ -17,5 +18,5 @@ The new form of communication we have devised utilizes Beaches, which are akin t
 ---
 *Transcribed from DeathStranding_ 004.jpg. Original yellow highlights preserved. This entry appears under Interviews in the game.*
 
-#mail
+
 

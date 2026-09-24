@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "The Order Confirmation Screen"
 category: "Orders"
+tags: [manual/orders]
 ---
 
 # The Order Confirmation Screen
@@ -18,5 +19,5 @@ Use **LB** and **RB** to switch tabs and view various information about an order
 ---
 *Transcribed from DeathStranding_ 015.jpg and DeathStranding_ 016.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/orders
+
 

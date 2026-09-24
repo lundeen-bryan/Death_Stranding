@@ -1,5 +1,6 @@
 ---
 date: 2026-09-19
+tags: [locations]
 ---
 
 # Distribution Center South of Lake Knot City
@@ -55,5 +56,5 @@ A Bridges distribution center beside a river and along Route 23, which connects 
 - [Death Stranding Wiki — Distribution Center South of Lake Knot City](https://deathstranding.fandom.com/wiki/Distribution_Center_South_of_Lake_Knot_City)
 - [Death Stranding Wiki — Lake Knot City](https://deathstranding.fandom.com/wiki/Lake_Knot_City) — facility amenities.
 
-#locations
+
 

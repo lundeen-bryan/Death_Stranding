@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Re-attempting a Standard Order"
 category: "Orders/Standard Orders"
+tags: [manual/orders/standard-orders]
 ---
 
-#manual/orders/standard-orders
+
 
 # Re-attempting a Standard Order
 

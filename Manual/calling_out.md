@@ -1,8 +1,9 @@
 ---
 date: 2026-09-11
+tags: [manual/sam/controls]
 ---
 
-#manual/sam/controls
+
 
 # Calling Out
 

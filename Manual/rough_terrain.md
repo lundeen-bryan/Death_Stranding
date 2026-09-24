@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Rough Terrain"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Rough Terrain
 

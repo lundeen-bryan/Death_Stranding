@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Items Acquired in Private Rooms"
 category: "Private Rooms"
+tags: [manual/private-rooms]
 ---
 
-#manual/private-rooms
+
 
 # Items Acquired in Private Rooms
 

@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "When BB Gets Excited"
 category: "BB"
+tags: [manual/bb]
 ---
 
-#manual/bb
+
 
 # When BB Gets Excited
 

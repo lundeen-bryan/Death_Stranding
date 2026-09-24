@@ -4,9 +4,10 @@ title: "Are You a Ludens?"
 sender: "The Ludens Fan"
 location: "S02-01"
 date_time: "09/12 07:24"
+tags: [mail]
 ---
 
-#mail
+
 
 # Are You a Ludens?
 

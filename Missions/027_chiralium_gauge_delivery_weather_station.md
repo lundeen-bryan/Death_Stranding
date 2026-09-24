@@ -3,6 +3,7 @@ type: order
 order: 027
 status: completed
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 027 - Chiralium Gauge Delivery: Weather Station
@@ -36,4 +37,4 @@ Deliver the chiralium gauge to the Weather Station and connect it to the chiral 
 
 - [Samurai Gamers — Order No. 27 walkthrough](https://samurai-gamers.com/death-stranding/order-no-27-chiralium-gauge-delivery-mission-walkthrough/) — objective, availability, route, and unlocks.
 
-#missions
+

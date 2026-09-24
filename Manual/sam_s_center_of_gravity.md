@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Sam's Center of Gravity"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Sam's Center of Gravity
 

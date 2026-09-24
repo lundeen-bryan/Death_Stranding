@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Repairing Vehicles"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
 # Repairing Vehicles
@@ -15,5 +16,5 @@ To store a vehicle, park it on top of the vehicle elevator.
 ---
 *Transcribed from DeathStranding_ 003.jpg and DeathStranding_ 004.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/vehicles
+
 

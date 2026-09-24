@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Safe House (Foundation)"
 category: "Structures"
+tags: [manual/structures]
 ---
 
-#manual/structures
+
 
 # Safe House (Foundation)
 

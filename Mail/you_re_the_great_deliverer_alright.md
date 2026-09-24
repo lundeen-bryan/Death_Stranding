@@ -4,9 +4,10 @@ title: "You're the Great Deliverer Alright!"
 sender: "Nick Easton"
 location: "Capital Knot City"
 date_time: "09/12 07:47"
+tags: [mail]
 ---
 
-#mail
+
 
 # You're the Great Deliverer Alright!
 

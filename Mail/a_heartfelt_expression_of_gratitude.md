@@ -4,6 +4,7 @@ title: "A Heartfelt Expression of Gratitude"
 sender: "Peter Englert"
 location: "S23-84"
 date_time: "09/19 17:24"
+tags: [mail]
 ---
 
 # A Heartfelt Expression of Gratitude
@@ -28,4 +29,4 @@ Preserves the original reaction symbols.
 
 *Transcribed from the supplied screenshot. Decorative reactions omitted from the text.*
 
-#mail
+

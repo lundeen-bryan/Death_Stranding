@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # Sorry, Sam. Bad News...
@@ -25,5 +26,5 @@ I'm sure you’ll soon help us put that to rights. We're counting on you, Sam!
 
 *Also verified against DeathStranding_.jpg (09/17 05:05).*
 
-#mail
+
 

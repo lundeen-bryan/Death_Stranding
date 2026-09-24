@@ -3,6 +3,7 @@ type: order
 order: 024
 likes: 839
 grade: 148
+tags: [teleporting, missions]
 ---
 
 # Order 024 - Prototype Bot Delivery: Distribution Center South of Lake Knot City
@@ -24,11 +25,11 @@ Deliver all three containers of the prototype auto-delivery bot from Lake Knot C
 - Recommended equipment: a reverse trike, ladder, and Bola Gun. Watch for MULEs along the route; completed road sections make travel easier.
 - These are researched mission details; personal results and transport used have not yet been recorded.
 - When you complete this mission you will automatically go to the private room and meet up with Fragile after a dream sequence. She'll be in the shower and you'll see her old skin from the incident she had with Higgs. Then she'll tell you about it. He basically tricked her into delivering a bomb to one of the major cities. She chose not to deliver it but the trade-off was that she had to run through the rain naked except for a mask on her head which kept it from the rain effects. The rest of her body aged to 80 years. The actress does a great job in this role.
-- We also gain the #teleporting ability here.
+- We also gain the  ability here.
 
 ## Sources
 
 - [Samurai Gamers — Order No. 24 walkthrough](https://samurai-gamers.com/death-stranding/order-no-24-prototype-bot-delivery-mission-walkthrough/)
 - [PowerPyx — Death Stranding missions list](https://www.powerpyx.com/death-stranding-missions-list/)
 
-#missions
+

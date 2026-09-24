@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Auto-Use and Auto-Replacement of Blood Bags"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Auto-Use and Auto-Replacement of Blood Bags
 

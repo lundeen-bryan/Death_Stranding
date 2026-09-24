@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Delivering Cargo to Other Destinations"
 category: "Cargo: Lost Cargo"
+tags: [manual/cargo/lost-cargo]
 ---
 
-#manual/cargo/lost-cargo
+
 
 # Delivering Cargo to Other Destinations
 

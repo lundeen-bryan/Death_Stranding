@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [mail]
 ---
 
 # Necrosis and the Ancient Egyptian View of Life and Death
@@ -17,5 +18,5 @@ It was hard to believe at first, but the process of necrosis provided proof of t
 ---
 *Transcribed from DeathStranding_ 003.jpg. Original yellow highlights preserved. This entry appears under Interviews in the game.*
 
-#mail
+
 

@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Porter Delivery Routes"
 category: "Porters"
+tags: [manual/porters]
 ---
 
-#manual/porters
+
 
 # Porter Delivery Routes
 

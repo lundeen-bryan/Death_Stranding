@@ -5,9 +5,10 @@ category: "Preppers"
 who: "The Craftsman"
 when: "One Year Ago"
 where: "Personal Shelter"
+tags: [interviews/preppers]
 ---
 
-#interviews/preppers
+
 
 # Terrorists Posing as Fragile Express Couriers
 

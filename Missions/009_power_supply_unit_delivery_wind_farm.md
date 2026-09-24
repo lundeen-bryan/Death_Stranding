@@ -3,6 +3,7 @@ type: order
 order: 009
 likes: 158
 grade: 058
+tags: [missions]
 ---
 
 # Order 009 - Power Supply Unit Delivery: Wind Farm
@@ -28,4 +29,3 @@ Stats:
 - 2 star connection
 - grade 058 porter
 
-#missions

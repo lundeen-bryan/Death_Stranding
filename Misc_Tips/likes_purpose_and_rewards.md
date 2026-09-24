@@ -5,6 +5,7 @@ aliases:
   - Likes
   - What are Likes for
 game: "Death Stranding / Director's Cut"
+tags: [misc-tips]
 ---
 
 # Likes - Purpose and Rewards
@@ -66,4 +67,4 @@ These are practical recommendations based on the systems above. A balanced set o
 
 *Researched 2026-09-20. General mechanics checked against the linked guides and existing in-game mail. Likes are not spendable currency: [Game Informer's report of Kojima's explanation](https://gameinformer.com/2019/09/16/likes-in-death-stranding-are-unconditional-love-not-currency).*
 
-#misc-tips
+

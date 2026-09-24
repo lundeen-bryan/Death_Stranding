@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Holding Down Buttons"
 category: "Controls"
+tags: [manual/controls]
 ---
 
-#manual/controls
+
 
 # Holding Down Buttons
 

@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Cargo Carried in the Backpack"
 category: "Cargo"
+tags: [manual/cargo]
 ---
 
-#manual/cargo
+
 
 # Cargo Carried in the Backpack
 

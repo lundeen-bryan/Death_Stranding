@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Using Floating Carriers"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
-#manual/floating-carriers
+
 
 # Using Floating Carriers
 

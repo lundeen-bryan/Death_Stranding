@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Accumulating Likes When Delivering Lost Cargo"
 category: "Cargo: Lost Cargo"
+tags: [manual/cargo/lost-cargo]
 ---
 
-#manual/cargo/lost-cargo
+
 
 # Accumulating Likes When Delivering Lost Cargo
 

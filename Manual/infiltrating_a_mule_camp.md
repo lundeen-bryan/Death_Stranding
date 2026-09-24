@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Infiltrating a MULE Camp"
 category: "Enemy Strategies: MULEs"
+tags: [manual/enemy-strategies/mules]
 ---
 
-#manual/enemy-strategies/mules
+
 
 # Infiltrating a MULE Camp
 

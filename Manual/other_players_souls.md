@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Other Players' Souls"
 category: "The Seam"
+tags: [manual/the-seam]
 ---
 
-#manual/the-seam
+
 
 # Other Players' Souls
 

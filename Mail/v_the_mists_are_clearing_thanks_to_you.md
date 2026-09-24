@@ -4,9 +4,10 @@ title: "[V] The Mists Are Clearing, Thanks to You"
 sender: 'Your partner "J"'
 location: null
 date_time: "09/15 23:49"
+tags: [mail]
 ---
 
-#mail
+
 
 # [V] The Mists Are Clearing, Thanks to You
 

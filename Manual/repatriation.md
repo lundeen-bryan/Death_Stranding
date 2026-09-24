@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Repatriation"
 category: "The Seam"
+tags: [manual/the-seam]
 ---
 
-#manual/the-seam
+
 
 # Repatriation
 

@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Quick Controls for Placing Smoke-Emitting Decoy Cargo"
 category: "Sam: Controls"
+tags: [manual/sam/controls]
 ---
 
-#manual/sam/controls
+
 
 # Quick Controls for Placing Smoke-Emitting Decoy Cargo
 

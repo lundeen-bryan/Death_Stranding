@@ -4,9 +4,10 @@ title: "Is It Weird to Have Feelings for Bots?"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 15:31"
+tags: [mail]
 ---
 
-#mail
+
 
 # Is It Weird to Have Feelings for Bots?
 

@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [mail]
 ---
 
 # About My Brother
@@ -19,4 +20,4 @@ You still got that little keepsake of his? Sounds kinda stupid, but I’ve start
 ---
 *Transcribed from DeathStranding_.jpg (09/18 14:15). Reaction icons are preserved in the screenshot.*
 
-#mail
+

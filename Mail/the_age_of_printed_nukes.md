@@ -4,9 +4,10 @@ title: "The Age of Printed Nukes"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/14 00:17"
+tags: [mail]
 ---
 
-#mail
+
 
 # The Age of Printed Nukes
 

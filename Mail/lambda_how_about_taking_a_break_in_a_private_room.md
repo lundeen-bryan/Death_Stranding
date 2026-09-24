@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # [λ] How About Taking a Break in a Private Room?
@@ -19,5 +20,5 @@ See you around, Sam.
 
 *Verified against DeathStranding_ 002.jpg (in-game date and time: 09/18 03:23).*
 
-#mail
+
 

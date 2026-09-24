@@ -3,6 +3,7 @@ type: order
 order: 026
 status: completed
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 026 - [URGENT] Fresh Pizza Delivery: Peter Englert
@@ -33,4 +34,4 @@ Researched 2026-09-19.
 - [Death Stranding Wiki — Pizza](https://deathstranding.fandom.com/wiki/Pizza) — weight and route.
 - [Samurai Gamers — Order No. 26](https://samurai-gamers.com/death-stranding/order-no-26-fresh-pizza-delivery-mission-walkthrough/) — objective and reference Likes.
 
-#missions
+

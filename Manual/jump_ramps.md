@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Jump Ramps"
 category: "Structures"
+tags: [manual/structures]
 ---
 
-#manual/structures
+
 
 # Jump Ramps
 

@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Holding Your Breath"
 category: "Enemies: BTs"
+tags: [manual/enemies/bts]
 ---
 
-#manual/enemies/bts
+
 
 # Holding Your Breath
 

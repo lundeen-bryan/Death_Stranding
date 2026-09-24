@@ -4,6 +4,7 @@ title: "The Meaning of Chirality"
 sender: "Benjamin Hancock"
 location: "Distribution Center West of Capital Knot City"
 date_time: "09/18 04:23"
+tags: [mail]
 ---
 
 # The Meaning of Chirality
@@ -31,5 +32,5 @@ Anyway, all I know is that while I hope you keep on doing what you do to bring u
 
 *Verified against the supplied 09/18 04:23 screenshot; original reaction icons are preserved above.*
 
-#mail
+
 

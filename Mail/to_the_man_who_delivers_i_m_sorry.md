@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [mail]
 ---
 
 # To the Man Who Delivers: I'm Sorry
@@ -29,4 +30,4 @@ My favorite's a track called Pop Virus, and I think you might like it too. Appar
 ---
 *Transcribed from DeathStranding_.jpg. Reaction icons preserved in the screenshot.*
 
-#mail
+

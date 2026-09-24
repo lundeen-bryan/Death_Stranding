@@ -3,6 +3,7 @@ type: order
 order: 071
 status: completed
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 071 - [V] Recovery: Chip Engraved with a Mysterious Symbol
@@ -40,4 +41,4 @@ Researched 2026-09-19. A walkthrough supplements the wiki search for this collab
 - [Half-Glass Gaming — Cyberpunk 2077 collaboration unlocks](https://halfglassgaming.com/2021/10/how-to-unlock-absolutely-everything-in-death-stranding-directors-cut/) — matches the exact mail subject to Order 071 and lists its rewards.
 - [PlayStationTrophies — Director's Cut walkthrough](https://www.playstationtrophies.org/forum/topic/329763-death-stranding-ps4-platinum-to-ps5-death-stranding-directors-cut-quick-platinum-full-walkthrough/) — independently matches the mail to Order 071 and the recovery area south/southeast of the distribution center.
 
-#missions
+

@@ -1,8 +1,7 @@
 ---
 date: 2026-09-10
+tags: [characters]
 ---
-
-#characters
 
 # Fragile
 

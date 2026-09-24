@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Facilities and Materials"
 category: "Facility Materials"
+tags: [manual/facility-materials]
 ---
 
 # Facilities and Materials
@@ -11,5 +12,5 @@ You can see how many materials are available at a given facility by moving the c
 ---
 *Transcribed from DeathStranding_ 007.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/facility-materials
+
 

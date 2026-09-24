@@ -1,5 +1,6 @@
 ---
 date: 2026-09-19
+tags: [locations]
 ---
 
 # Weather Station
@@ -38,4 +39,4 @@ Listed rewards are reference information; earning 3 stars has not been reported.
 - [Samurai Gamers — Order No. 27](https://samurai-gamers.com/death-stranding/order-no-27-chiralium-gauge-delivery-mission-walkthrough/) — approach and initial unlocks.
 - [Samurai Gamers — Connection Level Rewards](https://samurai-gamers.com/death-stranding/connection-level-rewards/) — contact and 3-star rewards.
 
-#locations
+

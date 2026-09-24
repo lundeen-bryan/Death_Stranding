@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Fast Travel (Jumping with Fragile)"
 category: "Fast Travel"
+tags: [manual/fast-travel]
 ---
 
-#manual/fast-travel
+
 
 # Fast Travel (Jumping with Fragile)
 

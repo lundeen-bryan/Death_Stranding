@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [items]
 ---
 
 # Chiral Crystals
@@ -22,4 +23,4 @@ Related reading: [[Mail/chiralium|Chiralium]] — Heartman's interview discussin
 
 Source: [Death Stranding Wiki — Chiral Crystals](https://deathstranding.fandom.com/wiki/Chiral_Crystals), [Materials](https://deathstranding.fandom.com/wiki/Materials).
 
-#items
+

@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # Cargo Condition and Your Porter Grades
@@ -21,5 +22,5 @@ That was my motto back when I was a porter. It wasn’t always easy, as you can 
 
 *Verified against DeathStranding_ 004.jpg (in-game date and time: 09/18 02:51).*
 
-#mail
+
 

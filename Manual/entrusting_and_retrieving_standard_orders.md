@@ -2,6 +2,7 @@
 date: 2026-09-19
 title: "Entrusting and Retrieving Standard Orders"
 category: "Orders/Standard Orders"
+tags: [manual/orders/standard-orders]
 ---
 
 # Entrusting and Retrieving Standard Orders
@@ -14,4 +15,4 @@ Standard orders can be entrusted to other players via the "Entrust Cargo" option
 
 *Transcribed from the supplied DeathStranding_ 015.jpg screenshot.*
 
-#manual/orders/standard-orders
+

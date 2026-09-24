@@ -2,6 +2,7 @@
 date: 2026-09-20
 title: "Vog-Preserved Cargo"
 category: "Cargo: Cargo Types"
+tags: [manual/cargo/cargo-types]
 ---
 
 # Vog-Preserved Cargo
@@ -12,4 +13,4 @@ To keep your cargo containers in one piece, try to spend as little time as possi
 
 *Transcribed from DeathStranding_ 004.jpg.*
 
-#manual/cargo/cargo-types
+

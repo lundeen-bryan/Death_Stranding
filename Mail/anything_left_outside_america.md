@@ -4,9 +4,10 @@ title: "Anything Left Outside America?"
 sender: "Alex Weatherstone"
 location: "Weather Station"
 date_time: "09/14 05:06"
+tags: [mail]
 ---
 
-#mail
+
 
 # Anything Left Outside America?
 

@@ -1,5 +1,6 @@
 ---
 date: 2026-09-20
+tags: [locations]
 ---
 
 # Cosplayer
@@ -23,4 +24,4 @@ Manage completion in [[to_do_list|TO DO List]].
 - [[Mail/be_sure_to_use_your_otter_hood|Be Sure to Use Your Otter Hood!]]
 - [[Personal Log/cosplayer_otter_head|Player route and preparation notes]]
 
-#locations
+

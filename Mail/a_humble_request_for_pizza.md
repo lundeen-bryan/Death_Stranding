@@ -4,9 +4,10 @@ title: "A Humble Request for Pizza"
 sender: "Peter Englert"
 location: "S23-84"
 date_time: "09/12 21:45"
+tags: [mail]
 ---
 
-#mail
+
 
 # A Humble Request for Pizza
 

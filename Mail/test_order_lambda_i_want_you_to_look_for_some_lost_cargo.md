@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # [Test Order] [λ] I Want You to Look for Some Lost Cargo
@@ -23,5 +24,5 @@ You’re the only one who can help me, Sam. I’m counting on you.
 
 *Verified against DeathStranding_.jpg (in-game date and time: 09/18 03:32).*
 
-#mail
+
 

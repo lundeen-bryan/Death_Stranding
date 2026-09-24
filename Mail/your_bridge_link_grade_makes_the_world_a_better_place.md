@@ -4,9 +4,10 @@ title: "Your Bridge Link Grade Makes the World a Better Place"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/12 15:07"
+tags: [mail]
 ---
 
-#mail
+
 
 # Your Bridge Link Grade Makes the World a Better Place
 

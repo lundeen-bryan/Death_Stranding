@@ -4,9 +4,10 @@ title: "[Recovery Request] [V] Retrieve My Chip from the MULEs"
 sender: 'Your partner "J"'
 location: null
 date_time: "09/14 22:20"
+tags: [mail]
 ---
 
-#mail
+
 
 # **[Recovery Request] [V] Retrieve My Chip from the MULEs**
 

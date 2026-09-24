@@ -5,9 +5,10 @@ category: "An Unknown Man's Journal"
 who: "Unknown"
 when: "Writing year unknown"
 where: "Unknown"
+tags: [interviews/an-unknown-man-s-journal]
 ---
 
-#interviews/an-unknown-man-s-journal
+
 
 # Journal #9
 

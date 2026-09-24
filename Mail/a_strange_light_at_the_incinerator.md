@@ -4,9 +4,10 @@ title: "A Strange Light at the Incinerator"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/14 22:20"
+tags: [mail]
 ---
 
-#mail
+
 
 # A Strange Light at the Incinerator
 

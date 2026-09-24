@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Locating MULEs"
 category: "Enemy Strategies: MULEs"
+tags: [manual/enemy-strategies/mules]
 ---
 
-#manual/enemy-strategies/mules
+
 
 # Locating MULEs
 

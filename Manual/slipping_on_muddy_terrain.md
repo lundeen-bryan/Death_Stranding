@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Slipping on Muddy Terrain"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Slipping on Muddy Terrain
 

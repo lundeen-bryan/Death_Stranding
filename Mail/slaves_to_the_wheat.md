@@ -4,9 +4,10 @@ title: "Slaves to the Wheat?"
 sender: "The Timefall Farmer"
 location: "S37-52"
 date_time: "09/14 22:26"
+tags: [mail]
 ---
 
-#mail
+
 
 # Slaves to the Wheat?
 

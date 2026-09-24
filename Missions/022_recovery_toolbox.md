@@ -3,6 +3,7 @@ type: order
 order: 022
 likes: 137
 grade: 144
+tags: [missions]
 ---
 
 # Order 022 - Recovery: Toolbox
@@ -25,4 +26,4 @@ Recover a toolbox from the Craftsman's old shelter in a BT-infested area and ret
 - I brought the [[Items/hematic_grenades|Hematic Grenades]] for this mission, as planned in [[Missions/021_gun_parts_and_anti_bt_weapon_delivery_craftsman|Order 021]].
 - I should have brought **2 extra ladders**, but forgot them.
 
-#missions
+

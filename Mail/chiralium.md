@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [mail]
 ---
 
 # Chiralium
@@ -23,5 +24,5 @@ Many of these claims are yet to be verified, but I believe that this is a fair s
 
 Related item: [[Items/chiral_crystals|Chiral Crystals]].
 
-#mail
+
 

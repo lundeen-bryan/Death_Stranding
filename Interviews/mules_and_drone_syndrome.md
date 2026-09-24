@@ -4,9 +4,10 @@ title: "MULEs and Drone Syndrome"
 who: "Die-Hardman"
 when: "Two Years Ago"
 where: "Bridges HQ"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # MULEs and Drone Syndrome
 

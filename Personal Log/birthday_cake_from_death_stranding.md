@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Birthday Cake from Death Stranding"
 category: "Personal Log"
+tags: [personal-log]
 ---
 
-#personal-log
+
 
 # Birthday Cake from Death Stranding
 

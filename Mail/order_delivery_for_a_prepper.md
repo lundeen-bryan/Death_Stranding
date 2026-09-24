@@ -4,9 +4,10 @@ title: "[Order] Delivery for a Prepper"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 21:43"
+tags: [mail]
 ---
 
-#mail
+
 
 # **[Order] Delivery for a Prepper**
 

@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Working with Others to Upgrade Structures"
 category: "Structures: Upgrading Structures"
+tags: [manual/structures/upgrading-structures]
 ---
 
 # Working with Others to Upgrade Structures
@@ -11,5 +12,5 @@ You are able to upgrade structures built by other players. Other porters are als
 ---
 *Transcribed from DeathStranding_ 009.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/structures/upgrading-structures
+
 

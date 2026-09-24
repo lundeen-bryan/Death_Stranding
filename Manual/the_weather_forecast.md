@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "The Weather Forecast"
 category: "Timefall"
+tags: [manual/timefall]
 ---
 
-#manual/timefall
+
 
 # The Weather Forecast
 

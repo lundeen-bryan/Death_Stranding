@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Electric Shock Attacks and Vehicles"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
-#manual/vehicles
+
 
 # Electric Shock Attacks and Vehicles
 

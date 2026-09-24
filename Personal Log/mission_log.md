@@ -1,9 +1,10 @@
 ---
 date: 2026-09-16
 title: Mission Log
+tags: [missions/log]
 ---
 
-#missions/log
+
 
 ## Wednesday 16 September
 

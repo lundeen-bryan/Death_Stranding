@@ -1,8 +1,9 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
-#mail
+
 
 # [λ] You Really Are the Great Deliverer
 

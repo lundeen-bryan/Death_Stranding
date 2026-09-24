@@ -4,6 +4,7 @@ title: "All About Preppers"
 sender: "William Lake"
 location: "Lake Knot City"
 date_time: "09/12 17:21"
+tags: [mail]
 ---
 
 # All About Preppers
@@ -32,5 +33,5 @@ And now they finally do, thanks to you. Could be the skeptics might finally come
 
 [[to_do_list#^read-prepper-interviews|Read the available prepper interviews]].
 
-#mail
+
 

@@ -4,9 +4,10 @@ title: "Started Using Utility Pouches, Sam?"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/14 20:38"
+tags: [mail]
 ---
 
-#mail
+
 
 # Started Using Utility Pouches, Sam?
 

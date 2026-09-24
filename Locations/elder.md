@@ -1,5 +1,6 @@
 ---
 date: 2026-09-19
+tags: [locations]
 ---
 
 # The Elder
@@ -38,4 +39,4 @@ He also provides high-density resins as a token of appreciation.
 
 - [Death Stranding Wiki — Elder](https://deathstranding.fandom.com/wiki/Elder)
 
-#locations
+

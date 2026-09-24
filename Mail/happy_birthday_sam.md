@@ -4,9 +4,10 @@ title: "Happy Birthday, Sam!"
 sender: "All Bridges Members"
 location: null
 date_time: "09/15 00:51"
+tags: [mail]
 ---
 
-#mail
+
 
 # Happy Birthday, Sam!
 

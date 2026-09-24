@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Hiding From Enemy Scanners"
 category: "Enemy Strategies: MULEs"
+tags: [manual/enemy-strategies/mules]
 ---
 
-#manual/enemy-strategies/mules
+
 
 # Hiding From Enemy Scanners
 

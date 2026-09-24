@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [locations]
 ---
 
 # Waystation West of Capital Knot City
@@ -25,5 +26,5 @@ A Bridges waystation between Capital Knot City and the [[Locations/distribution_
 
 - [Death Stranding Wiki — Waystation West of Capital Knot City](https://deathstranding.fandom.com/wiki/Waystation_West_of_Capital_Knot_City)
 
-#locations
+
 

@@ -3,9 +3,10 @@ date: 2026-09-15
 title: "Requesting Structure Upgrades"
 category: "Online Features"
 source_type: "Online research and player reports"
+tags: [manual/online-features]
 ---
 
-#manual/online-features
+
 
 # Requesting Structure Upgrades
 

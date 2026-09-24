@@ -4,9 +4,10 @@ title: "Take a Dip in Some Hot Springs!"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 20:39"
+tags: [mail]
 ---
 
-#mail
+
 
 # Take a Dip in Some Hot Springs!
 

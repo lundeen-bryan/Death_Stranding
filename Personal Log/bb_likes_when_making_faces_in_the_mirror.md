@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "BB Likes When Making Faces in the Mirror"
 category: "Personal Log"
+tags: [personal-log]
 ---
 
-#personal-log
+
 
 # BB Likes When Making Faces in the Mirror
 

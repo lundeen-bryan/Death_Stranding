@@ -5,9 +5,10 @@ category: "Preppers"
 who: "The Elder"
 when: "Two Years Ago"
 where: "Personal Shelter"
+tags: [interviews/preppers]
 ---
 
-#interviews/preppers
+
 
 # Prepper Shelters
 

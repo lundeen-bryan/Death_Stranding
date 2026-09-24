@@ -1,8 +1,9 @@
 ---
 date: 2026-09-11
+tags: [manual/menu, menu]
 ---
 
-#manual/menu
+
 
 # Navigating List-Style Menus
 
@@ -17,4 +18,3 @@ date: 2026-09-11
 
 ---
 
-#menu

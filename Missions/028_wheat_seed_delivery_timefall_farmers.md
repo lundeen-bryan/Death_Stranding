@@ -4,6 +4,7 @@ order: 028
 likes: 511
 status: completed
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 028 - Wheat Seed Delivery: Timefall Farmers
@@ -29,4 +30,4 @@ Deliver wheat seeds to the Timefall Farmers.
 
 Player completion report, 2026-09-19.
 
-#missions
+

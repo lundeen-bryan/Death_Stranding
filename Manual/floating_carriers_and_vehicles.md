@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Floating Carriers and Vehicles"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
-#manual/floating-carriers
+
 
 # Floating Carriers and Vehicles
 

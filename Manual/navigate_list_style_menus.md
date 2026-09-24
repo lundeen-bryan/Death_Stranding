@@ -1,8 +1,9 @@
 ---
 date: 2026-09-08
+tags: [manual/menu]
 ---
 
-#manual/menu
+
 
 # Navigating List-Style Menus
 

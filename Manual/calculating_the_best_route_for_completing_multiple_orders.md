@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Calculating the Best Route for Completing Multiple Orders"
 category: "Cuff Links: Map"
+tags: [manual/cuff-links/map]
 ---
 
-#manual/cuff-links/map
+
 
 # Calculating the Best Route for Completing Multiple Orders
 

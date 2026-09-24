@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "Placing Hand-Carried Cargo on a Floating Carrier"
 category: "Floating Carriers"
+tags: [manual/floating-carriers]
 ---
 
-#manual/floating-carriers
+
 
 # Placing Hand-Carried Cargo on a Floating Carrier
 

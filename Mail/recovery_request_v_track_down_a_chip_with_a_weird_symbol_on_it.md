@@ -4,9 +4,10 @@ title: "[Recovery Request] [V] Track Down a Chip with a Weird Symbol on It"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/12 23:06"
+tags: [mail]
 ---
 
-#mail
+
 
 # ==[Recovery Request] [V] Track Down a Chip with a Weird Symbol on It==
 

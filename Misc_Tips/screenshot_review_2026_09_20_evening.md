@@ -1,6 +1,7 @@
 ---
 date: 2026-09-20
 title: "Screenshot review - evening mail and tips"
+tags: [personal-log]
 ---
 
 # Screenshot review - evening mail and tips
@@ -24,4 +25,4 @@ All source images are preserved under Misc_Tips/Attachments/2026_09_20_evening w
 
 Added an optional chiral-boots reminder to [[to_do_list|TO DO List]]. The V-chip task was already completed; this batch supplies another reward confirmation. The Craftsman's message reports work done by other porters and adds no task for Sam.
 
-#personal-log
+

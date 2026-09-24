@@ -1,6 +1,7 @@
 ---
 type: order
 order: 007
+tags: [missions]
 ---
 
 # Order 007 - Recovery: Chrial Printer Interface
@@ -24,4 +25,3 @@ I was given boots Level 1 upgrade here.
 
 A total of 108 likes for this mission.
 
-#missions

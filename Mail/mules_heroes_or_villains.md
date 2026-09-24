@@ -4,9 +4,10 @@ title: "MULEs: Heroes or Villains?"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/12 22:19"
+tags: [mail]
 ---
 
-#mail
+
 
 # MULEs: Heroes or Villains?
 

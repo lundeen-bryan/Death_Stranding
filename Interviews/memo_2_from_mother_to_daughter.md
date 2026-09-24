@@ -4,9 +4,10 @@ title: "Memo #2: From Mother to Daughter"
 who: "Unknown"
 when: "Unknown"
 where: "Unknown"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Memo #2: From Mother to Daughter
 

@@ -1,6 +1,7 @@
 ---
 date: 2026-09-20
 title: "Screenshot review - 21 images"
+tags: [personal-log]
 ---
 
 # Screenshot review - 21 images
@@ -39,4 +40,4 @@ Added junk disposal, a return visit to the Cosplayer for UCA membership, and an 
 
 Inbox-only subjects already have notes: [[Mail/you_really_are_unique_aren_t_you]], [[Mail/we_got_married]], and [[Mail/take_a_dip_in_some_hot_springs]].
 
-#personal-log
+

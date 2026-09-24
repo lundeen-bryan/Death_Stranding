@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Making a Partial Delivery"
 category: "Cargo: Partial Deliveries"
+tags: [manual/cargo/partial-deliveries]
 ---
 
-#manual/cargo/partial-deliveries
+
 
 # Making a Partial Delivery
 

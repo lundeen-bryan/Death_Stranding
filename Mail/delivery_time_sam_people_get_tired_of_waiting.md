@@ -4,9 +4,10 @@ title: "Delivery Time, Sam! People Get Tired of Waiting!"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 12:25"
+tags: [mail]
 ---
 
-#mail
+
 
 # Delivery Time, Sam! People Get Tired of Waiting!
 

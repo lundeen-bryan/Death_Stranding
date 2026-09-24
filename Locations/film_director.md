@@ -1,5 +1,6 @@
 ---
 date: 2026-09-19
+tags: [locations]
 ---
 
 # Film Director
@@ -48,4 +49,4 @@ Researched 2026-09-19.
 - [Neoseeker — Orders 30 and 31](https://www.neoseeker.com/death-stranding/walkthrough/Order_No._30) — location relative to the Junk Dealer.
 - [Half-Glass Gaming — Unlock guide](https://halfglassgaming.com/2021/10/how-to-unlock-absolutely-everything-in-death-stranding-directors-cut/) — network connection and UCA membership.
 
-#locations
+

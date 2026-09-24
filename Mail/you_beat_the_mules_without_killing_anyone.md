@@ -4,9 +4,10 @@ title: "You Beat the MULEs—WITHOUT Killing Anyone!?"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/12 22:36"
+tags: [mail]
 ---
 
-#mail
+
 
 # You Beat the MULEs—WITHOUT Killing Anyone!?
 

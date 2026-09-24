@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [locations]
 ---
 
 # Wind Farm
@@ -25,5 +26,5 @@ A Bridges power facility northwest of the [[Locations/distribution_center_west_o
 
 - [Death Stranding Wiki — Wind Farm](https://deathstranding.fandom.com/wiki/Wind_Farm)
 
-#locations
+
 

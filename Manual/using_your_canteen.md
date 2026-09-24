@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Using Your Canteen"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Using Your Canteen
 

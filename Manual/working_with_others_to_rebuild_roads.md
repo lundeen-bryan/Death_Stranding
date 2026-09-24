@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Working with Others to Rebuild Roads"
 category: "Roads"
+tags: [manual/roads]
 ---
 
-#manual/roads
+
 
 # Working with Others to Rebuild Roads
 

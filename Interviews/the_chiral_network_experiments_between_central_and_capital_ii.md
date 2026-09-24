@@ -4,9 +4,10 @@ title: "The Chiral Network Experiments Between Central and Capital II"
 who: "Die-Hardman"
 when: "One Year Ago"
 where: "Capital Knot City"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # The Chiral Network Experiments Between Central and Capital II
 

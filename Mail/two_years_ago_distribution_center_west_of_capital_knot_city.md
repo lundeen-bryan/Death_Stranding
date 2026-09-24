@@ -1,5 +1,6 @@
 ---
 date: 2026-09-17
+tags: [mail]
 ---
 
 # Two Years Ago - Distribution Center West of Capital Knot City
@@ -21,4 +22,4 @@ Still, for now, the network systems are up and running, and we're just holding o
 ---
 *Transcribed from DeathStranding_ 006.jpg, DeathStranding_ 007.jpg, and DeathStranding_ 008.jpg. Overlapping text combined into one entry. This entry appears under Interviews in the game.*
 
-#mail
+

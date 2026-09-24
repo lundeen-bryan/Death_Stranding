@@ -4,9 +4,10 @@ title: "Fear as Pleasure"
 who: "Deadman"
 when: "Three Years Ago"
 where: "Bridges HQ"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Fear as Pleasure
 

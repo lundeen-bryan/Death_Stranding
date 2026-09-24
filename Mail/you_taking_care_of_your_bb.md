@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [mail]
 ---
 
 # You Taking Care of Your BB?
@@ -25,4 +26,4 @@ Man, I miss those days with the little guy... You’ll take good care of your BB
 ---
 *Transcribed from DeathStranding_ 002.jpg (09/18 13:46). Original yellow highlights preserved; reaction icons are preserved in the screenshot.*
 
-#mail
+

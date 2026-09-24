@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [manual/environmental-factors]
 ---
 
 # Tall Grass
@@ -13,5 +14,5 @@ You can hide from sight in tall grass marked with the **green grass icon** on th
 ---
 *Transcribed from the supplied in-game screenshot. Icons are preserved in the screenshot.*
 
-#manual/environmental-factors
+
 

@@ -1,9 +1,10 @@
 ---
 date: 2026-09-15
 title: "Gravity Gloves"
+tags: [items]
 ---
 
-#items
+
 
 # Gravity Gloves
 

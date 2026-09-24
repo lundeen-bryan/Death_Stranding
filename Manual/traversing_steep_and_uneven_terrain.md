@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Traversing Steep and Uneven Terrain"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Traversing Steep and Uneven Terrain
 

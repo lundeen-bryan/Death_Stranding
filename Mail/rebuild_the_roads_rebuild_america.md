@@ -4,9 +4,10 @@ title: "Rebuild the Roads, Rebuild America"
 sender: "The Elder"
 location: "S23-18"
 date_time: "09/14 13:26"
+tags: [mail]
 ---
 
-#mail
+
 
 # Rebuild the Roads, Rebuild America
 

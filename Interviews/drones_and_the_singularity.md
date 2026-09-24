@@ -4,9 +4,10 @@ title: "Drones and the Singularity"
 who: "Mama"
 when: "Several Months Ago"
 where: "Unknown"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Drones and the Singularity
 

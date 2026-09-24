@@ -5,9 +5,10 @@ category: "Other"
 who: "Fragile Express Staffer"
 when: "Two Years Ago"
 where: "South Knot City"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Fragile's Umbrella and Suit
 

@@ -2,6 +2,7 @@
 type: order
 order: 012
 likes: 82
+tags: [missions]
 ---
 
 # Order 012 - Recovery: Confidential Documents
@@ -21,4 +22,3 @@ Get documents from Mules
 
 only 82 likes for this order, I got more for returning the lost cargo I found inside the locker.
 
-#missions

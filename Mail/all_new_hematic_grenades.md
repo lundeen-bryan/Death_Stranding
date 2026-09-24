@@ -4,9 +4,10 @@ title: "All-New Hematic Grenades!"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/13 06:04"
+tags: [mail]
 ---
 
-#mail
+
 
 # All-New Hematic Grenades!
 

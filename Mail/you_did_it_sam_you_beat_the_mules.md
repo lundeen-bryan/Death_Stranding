@@ -4,9 +4,10 @@ title: "You Did It, Sam! You Beat the MULEs!"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/13 01:02"
+tags: [mail]
 ---
 
-#mail
+
 
 # You Did It, Sam! You Beat the MULEs!
 

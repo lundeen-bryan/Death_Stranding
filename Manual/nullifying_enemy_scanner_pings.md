@@ -2,9 +2,10 @@
 date: 2026-09-14
 title: "Nullifying Enemy Scanner Pings"
 category: "Sam: Scanner & Detector"
+tags: [manual/sam/scanner-and-detector]
 ---
 
-#manual/sam/scanner-and-detector
+
 
 # Nullifying Enemy Scanner Pings
 

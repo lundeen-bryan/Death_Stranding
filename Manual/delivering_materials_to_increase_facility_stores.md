@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Delivering Materials to Increase Facility Stores"
 category: "Facility Materials"
+tags: [manual/facility-materials]
 ---
 
 # Delivering Materials to Increase Facility Stores
@@ -13,5 +14,5 @@ Use **LB / RB** in the Orders Menu to switch between tabs and to check items to 
 ---
 *Transcribed from DeathStranding_ 006.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/facility-materials
+
 

@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "PCC (Lv. 2)"
 category: "Placing Structures"
+tags: [manual/placing-structures]
 ---
 
-#manual/placing-structures
+
 
 # PCC (Lv. 2)
 

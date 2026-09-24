@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Acquiring Materials for Upgrading Structures"
 category: "Structures: Upgrading Structures"
+tags: [manual/structures/upgrading-structures]
 ---
 
 # Acquiring Materials for Upgrading Structures
@@ -11,5 +12,5 @@ If you do not have enough materials to upgrade a structure, try collecting dropp
 ---
 *Transcribed from DeathStranding_ 012.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/structures/upgrading-structures
+
 

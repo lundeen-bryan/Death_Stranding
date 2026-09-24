@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Postbox (Lv. 1)"
 category: "Structures"
+tags: [manual/structures]
 ---
 
 # Postbox (Lv. 1)
@@ -11,5 +12,5 @@ Postboxes can be used to return lost cargo or entrust cargo for delivery by othe
 ---
 *Transcribed from DeathStranding_ 013.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/structures
+
 

@@ -4,9 +4,10 @@ title: "[Test Order] [λ] Find my Lost Cargo, Please!"
 sender: "William L"
 location: "Lake Knot City"
 date_time: "09/12 21:49"
+tags: [mail]
 ---
 
-#mail
+
 
 # ==[Test Order] [λ] Find my Lost Cargo, Please!==
 

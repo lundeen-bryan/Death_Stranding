@@ -4,9 +4,10 @@ title: "No More MULE Trouble. Thanks Sam!"
 sender: "The Timefall Farmer"
 location: "S37-52"
 date_time: "09/14 12:58"
+tags: [mail]
 ---
 
-#mail
+
 
 # No More MULE Trouble. Thanks Sam!
 

@@ -4,6 +4,7 @@ title: "The Best Damn Brew You'll Ever Drink"
 sender: "The Timefall Farmer"
 location: "S37-52"
 date_time: "09/20 00:55"
+tags: [mail]
 ---
 
 # The Best Damn Brew You'll Ever Drink
@@ -22,6 +23,6 @@ So, mister legendary porter, why not put your feet up and enjoy a tall glass of 
 
 *Transcribed from the supplied chat image. Decorative reaction icons omitted. The original screenshot path was unavailable when saving, so no local screenshot is embedded.*
 
-#mail
+
 
 

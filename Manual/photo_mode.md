@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Photo Mode"
 category: "Photo Mode"
+tags: [manual/photo-mode]
 ---
 
-#manual/photo-mode
+
 
 # Photo Mode
 

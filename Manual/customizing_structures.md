@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Customizing Structures"
 category: "Customizing Structures"
+tags: [manual/structures]
 ---
 
-#manual/structures
+
 
 # Customizing Structures
 

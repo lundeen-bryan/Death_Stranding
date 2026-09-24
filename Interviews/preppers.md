@@ -4,9 +4,10 @@ title: "Preppers"
 who: "Fragile"
 when: "Two Years Ago"
 where: "Lake Knot City"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Preppers
 

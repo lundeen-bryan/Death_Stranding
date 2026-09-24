@@ -5,9 +5,10 @@ sender: "William Lake"
 location: "Lake Knot City"
 date_time: "09/12 20:28"
 transcription_status: "complete"
+tags: [mail]
 ---
 
-#mail
+
 
 # You've Got to Go the Extra Mile!
 

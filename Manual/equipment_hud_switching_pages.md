@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Equipment HUD: Switching Pages"
 category: "Sam: Controls"
+tags: [manual/sam/controls]
 ---
 
-#manual/sam/controls
+
 
 # Equipment HUD: Switching Pages
 

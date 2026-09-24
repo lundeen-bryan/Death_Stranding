@@ -1,5 +1,6 @@
 ---
 date: 2026-09-11
+tags: [mail]
 ---
 
 # More than Oxy
@@ -25,5 +26,5 @@ And that’s why we need you, Sam! You’re not scared of anything, right? So go
 
 *Also verified against DeathStranding_ 002.jpg (09/17 05:05).*
 
-#mail
+
 

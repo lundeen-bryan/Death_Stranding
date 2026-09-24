@@ -2,9 +2,10 @@
 date: 2026-09-13
 title: "The Weather Forecast: Changing the Forecast Time"
 category: "Cuff Links: Weather Forecast"
+tags: [manual/cuff-links/weather-forecast]
 ---
 
-#manual/cuff-links/weather-forecast
+
 
 # The Weather Forecast: Changing the Forecast Time
 

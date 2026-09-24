@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Storing Vehicles in the Garage"
 category: "Garage"
+tags: [manual/garage]
 ---
 
 # Storing Vehicles in the Garage
@@ -11,5 +12,5 @@ Vehicles parked on the elevator can be stored in the garage by selecting "Garage
 ---
 *Transcribed from DeathStranding_ 002.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/garage
+
 

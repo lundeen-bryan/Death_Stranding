@@ -4,9 +4,10 @@ title: "Evolution, Death Stranding and the Fear of Dying"
 who: "Heartman"
 when: "One Year Ago"
 where: "Heartman's Lab"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Evolution, Death Stranding and the Fear of Dying
 

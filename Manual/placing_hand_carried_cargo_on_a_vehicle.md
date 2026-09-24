@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Placing Hand-Carried Cargo on a Vehicle"
 category: "Vehicles"
+tags: [manual/vehicles]
 ---
 
-#manual/vehicles
+
 
 # Placing Hand-Carried Cargo on a Vehicle
 

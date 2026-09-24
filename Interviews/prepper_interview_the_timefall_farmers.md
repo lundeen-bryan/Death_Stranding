@@ -5,9 +5,10 @@ category: "Preppers"
 who: "The Timefall Farmer"
 when: "One Year Ago"
 where: "Timefall Farmers' Farm"
+tags: [interviews/preppers]
 ---
 
-#interviews/preppers
+
 
 # Prepper Interview: The Timefall Farmers
 

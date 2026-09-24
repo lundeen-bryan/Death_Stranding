@@ -2,6 +2,7 @@
 date: 2026-09-16
 title: "The Blood and Stamina Gauges"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
 # The Blood and Stamina Gauges
@@ -19,5 +20,5 @@ As this gauge depletes, Sam moves more slowly, and maintaining his balance is ha
 
 *Also verified against DeathStranding_ 018.jpg from the latest supplied batch.*
 
-#manual/sam/stamina
+
 

@@ -3,6 +3,7 @@ date: 2026-09-12
 title: "Capital Knot City — Private Room"
 location: "Capital Knot City"
 category: "Private Rooms"
+tags: [locations]
 ---
 
 # Capital Knot City — Private Room
@@ -31,4 +32,3 @@ The marking might be an identification number for the room or facility. This is 
 
 Capital Knot City (1431.92, 701.45)
 
-#locations

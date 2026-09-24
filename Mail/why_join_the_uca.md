@@ -4,9 +4,10 @@ title: "Why Join the UCA?"
 sender: "The Elder"
 location: "S23-18"
 date_time: "09/12 19:03"
+tags: [mail]
 ---
 
-#mail
+
 
 # Why Join the UCA?
 

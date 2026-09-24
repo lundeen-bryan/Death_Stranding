@@ -4,6 +4,7 @@ order: 032
 status: completed
 likes: 213
 completion_reported: 2026-09-19
+tags: [missions]
 ---
 
 # Order 032 - Collection: Old Components
@@ -31,4 +32,4 @@ Collect old components from the old buildings by the lake for the Junk Dealer, f
 
 Player progress and completion reports, 2026-09-19. "Very hard" describes the player's assessment of this order, not a confirmed game difficulty setting.
 
-#missions
+

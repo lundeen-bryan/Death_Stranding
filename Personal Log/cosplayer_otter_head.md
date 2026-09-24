@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Cosplayer - Otter Head"
 category: "Personal Log"
+tags: [personal-log]
 ---
 
-#personal-log
+
 
 # Cosplayer - Otter Head
 

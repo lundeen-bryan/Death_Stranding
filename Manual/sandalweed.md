@@ -2,6 +2,7 @@
 date: 2026-09-17
 title: "Sandalweed"
 category: "Equipment"
+tags: [manual/equipment]
 ---
 
 # Sandalweed
@@ -11,5 +12,5 @@ Sandalweed leaves can serve as temporary footwear in an emergency. Once you've a
 ---
 *Transcribed from DeathStranding_.jpg. Controller symbols and icons are described in text where present.*
 
-#manual/equipment
+
 

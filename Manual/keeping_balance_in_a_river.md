@@ -2,9 +2,10 @@
 date: 2026-09-16
 title: "Keeping Balance in a River"
 category: "Sam: Movement"
+tags: [manual/sam/movement]
 ---
 
-#manual/sam/movement
+
 
 # Keeping Balance in a River
 

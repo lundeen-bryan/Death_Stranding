@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18
+tags: [locations]
 ---
 
 # Ruined Factory
@@ -23,5 +24,5 @@ An abandoned factory on a ridge near the [[Locations/distribution_center_west_of
 
 - [Death Stranding Wiki — Order 077: Collection: Cargo Discovered in the Ruined Factory](https://deathstranding.fandom.com/wiki/Order_No._77%3A_Collection%3A_Cargo_Discovered_in_the_Ruined_Factory)
 
-#locations
+
 

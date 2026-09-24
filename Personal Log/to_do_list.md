@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "TO DO List"
 status: temporary
+tags: [personal-log/tasks]
 ---
 
-#personal-log/tasks
+
 
 # TO DO List
 

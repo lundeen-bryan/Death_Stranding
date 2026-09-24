@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Restoring Blood Levels with Blood Bags"
 category: "Sam: Stamina"
+tags: [manual/sam/stamina]
 ---
 
-#manual/sam/stamina
+
 
 # Restoring Blood Levels with Blood Bags
 

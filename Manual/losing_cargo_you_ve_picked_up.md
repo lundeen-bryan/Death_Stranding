@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Losing Cargo You've Picked Up"
 category: "Cargo: Lost Cargo"
+tags: [manual/cargo/lost-cargo]
 ---
 
-#manual/cargo/lost-cargo
+
 
 # Losing Cargo You've Picked Up
 

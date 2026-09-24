@@ -4,9 +4,10 @@ title: "The Great Deliverer Delivers a MULE Beatdown!"
 sender: "The Engineer"
 location: "S23-06"
 date_time: "09/12 22:36"
+tags: [mail]
 ---
 
-#mail
+
 
 # The Great Deliverer Delivers a MULE Beatdown!
 

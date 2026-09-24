@@ -2,9 +2,10 @@
 date: 2026-09-12
 title: "Utility Pouches"
 category: "Utility Pouch"
+tags: [manual/utility-pouch]
 ---
 
-#manual/utility-pouch
+
 
 # Utility Pouches
 

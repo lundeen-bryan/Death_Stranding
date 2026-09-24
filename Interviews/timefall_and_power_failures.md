@@ -4,9 +4,10 @@ title: "Timefall and Power Failures"
 who: "Igor"
 when: "Three Years Ago"
 where: "Central Knot City"
+tags: [interviews]
 ---
 
-#interviews
+
 
 # Timefall and Power Failures
 

@@ -2,9 +2,10 @@
 date: 2026-09-15
 title: "Stun Bombs"
 category: "Enemies: MULEs"
+tags: [manual/enemy-strategies/mules]
 ---
 
-#manual/enemy-strategies/mules
+
 
 # Stun Bombs
 
