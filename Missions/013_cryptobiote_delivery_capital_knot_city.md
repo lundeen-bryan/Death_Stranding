@@ -2,10 +2,6 @@
 date: 2026-09-12
 type: order
 order: 013
-title: "Order 013 - Urgent Cryptobiote Delivery: Capital Knot City"
-order_number: 13
-origin: "Distribution Center West of Capital Knot City"
-destination: "Capital Knot City"
 likes: 280
 tags: [missions]
 ---
