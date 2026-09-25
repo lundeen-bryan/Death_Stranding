@@ -1,19 +1,11 @@
 ---
 date: 2026-09-12
-title: "[Test Order] [λ] Find my Lost Cargo, Please!"
-sender: "William L"
-location: "Lake Knot City"
-date_time: "09/12 21:49"
-tags: [mail]
+tags: [mail, todo]
 ---
-
-
-
 # ==[Test Order] [λ] Find my Lost Cargo, Please!==
 
-**Sender:** William L  
-**Location:** Lake Knot City  
-**Date & Time:** 09/12 21:49
+**Sender:** William L
+**Location:** Lake Knot City
 
 Hey, Sam. The Great Deliverer, right? Benjamin told me all about you. Told me how much you like Half-Life. To be honest, though, I’m not sure I understand what it is you do. So why don’t you show me? Prove to me you’re a real badass.
 
