@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12
-tags: [mail, todo]
+tags: [mail, todo-finished]
 ---
 # ==[Test Order] [λ] Find my Lost Cargo, Please!==
 
