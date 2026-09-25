@@ -1,16 +1,12 @@
 ---
 date: 2026-09-12
-title: "All About Preppers"
-sender: "William Lake"
-location: "Lake Knot City"
-date_time: "09/12 17:21"
-tags: [mail]
+tags: [mail, todo]
 ---
 
 # All About Preppers
 
-**Sender:** William Lake  
-**Location:** Lake Knot City  
+**Sender:** William Lake
+**Location:** Lake Knot City
 **Date & Time:** 09/12 17:21
 
 We made rounds of the local preppers when I first arrived here with Bridges I. ==There should be some interviews floating around that the records team transcribed. Take a look if you get the chance.==

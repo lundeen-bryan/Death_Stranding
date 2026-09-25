@@ -3,7 +3,7 @@ type: order
 order: 023
 likes: 161
 grade: 144
-tags: [missions]
+tags: [missions, trike]
 ---
 
 # Order 023 - Retrieval: System Server

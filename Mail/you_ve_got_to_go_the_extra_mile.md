@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "You've Got to Go the Extra Mile!"
-sender: "William Lake"
-location: "Lake Knot City"
-date_time: "09/12 20:28"
-transcription_status: "complete"
-tags: [mail]
+tags: [mail, todo]
 ---
-
-
 
 # You've Got to Go the Extra Mile!
 
-**Sender:** William Lake  
-**Location:** Lake Knot City  
+**Sender:** William Lake
+**Location:** Lake Knot City
 **Date & Time:** 09/12 20:28
 
 Thanks again, Sam. You really came through for us today!
