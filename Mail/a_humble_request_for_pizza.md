@@ -1,7 +1,7 @@
 ---
 date: 2026-09-12
 location: "S23-84"
-tags: [mail, todo, pizza]
+tags: [mail, todo-finished, pizza]
 ---
 
 # A Humble Request for Pizza
