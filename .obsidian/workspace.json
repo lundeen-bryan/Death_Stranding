@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1554900c79eff8b",
+        "id": "b0996be3e38f32aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ee80b6c84354b234",
+            "id": "8615703d777d3d9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee80b6c84354b234",
+  "active": "8615703d777d3d9c",
   "lastOpenFiles": [
+    "2026-09-26.md",
+    "Untitled.canvas",
     "Personal Log/lake_knot_city_an_ocean_beyond_the_private_room_door.md",
     "Personal Log/bb_likes_when_making_faces_in_the_mirror.md",
     "Characters/fragile.md",
@@ -209,8 +211,6 @@
     "Mail/our_hard_work_is_paying_off.md",
     "Mail/more_than_oxy.md",
     "Mail/cargo_condition_and_your_porter_grades.md",
-    "Mail/lambda_you_really_are_the_great_deliverer.md",
-    "Mail/lambda_how_about_taking_a_break_in_a_private_room.md",
-    "Mail/test_order_lambda_i_want_you_to_look_for_some_lost_cargo.md"
+    "Mail/lambda_you_really_are_the_great_deliverer.md"
   ]
 }
