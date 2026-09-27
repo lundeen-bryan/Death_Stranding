@@ -4,15 +4,15 @@ title: "[Test Order] [λ] You’ve Got to Find my Cube!"
 sender: "Thomas S"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 13:31"
-tags: [mail]
+tags: [mail, todo]
 ---
 
 
 
 # **[Test Order] [λ] You’ve Got to Find my Cube!**
 
-**Sender:** Thomas S  
-**Location:** Distribution Center South of Lake Knot City  
+**Sender:** Thomas S
+**Location:** Distribution Center South of Lake Knot City
 **Date & Time:** 09/14 13:31
 
 Sam! You're the man everyone's talking about! The cube-collecting hero! And a fan of Half-Life and Portal to boot! As a matter of fact, that's why I'm writing you. I've lost my own precious specimen. Yeah, I know, I know. “Not again,” I can hear you saying. Well, think of it this way: experiments, repeated over and over, are essential to scientific advancement, right? Everything we've got now—bots, trucks, you name it—it's only because pioneers of previous generations were willing to engage in a bit of trial and error. And now I'm giving you the chance to do the same! You're bound to learn something along the way! For science!
