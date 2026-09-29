@@ -4,11 +4,11 @@ title: "Gravity Gloves"
 tags: [items]
 ---
 
-
-
 # Gravity Gloves
 
 ## Confirmed by my mail
+
+Mail msg that asks me to find the missing cube [[test_order_lambda_you_ve_got_to_find_my_cube]] but the location is not northwest of the [[locations/distribution_center_south_of_lake_knot_city]] it's actually northwest of [[locations/craftsman]] in the area that looks like a bunch of lakes. Look there for the cube.
 
 [[lambda_you_re_the_real_deal|λ You're the Real Deal!]] confirms that gravity gloves are now **available for fabrication**, can collect cargo within about **15 meters**, and are **battery operated**. Fabricating and equipping a pair have not yet been reported.
 
