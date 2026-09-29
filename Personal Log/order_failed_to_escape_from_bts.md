@@ -1,6 +1,5 @@
 ---
 date: 2026-09-20
-title: "Order Failed - Failed to Escape from BTs"
 tags: [personal-log]
 ---
 

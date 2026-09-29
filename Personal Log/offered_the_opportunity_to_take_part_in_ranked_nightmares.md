@@ -1,11 +1,8 @@
 ---
 date: 2026-09-14
-title: "Offered the Opportunity to Take Part in Ranked Nightmares"
 category: "Personal Log"
 tags: [personal-log]
 ---
-
-
 
 # Offered the Opportunity to Take Part in Ranked Nightmares
 

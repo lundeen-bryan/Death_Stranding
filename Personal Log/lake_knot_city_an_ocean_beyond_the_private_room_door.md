@@ -1,12 +1,9 @@
 ---
 date: 2026-09-13
-title: "Lake Knot City - An Ocean Beyond the Private Room Door"
 location: "Lake Knot City - Private Room"
 category: "Personal Log"
 tags: [personal-log]
 ---
-
-
 
 # Lake Knot City - An Ocean Beyond the Private Room Door
 
