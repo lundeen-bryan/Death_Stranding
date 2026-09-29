@@ -1,6 +1,5 @@
 ---
 date: 2026-09-12
-title: "The Chiral Network II"
 who: "Mama"
 when: "Three Years Ago - Before First Expediti [clipped]"
 where: "Central Knot City HQ"
@@ -8,13 +7,7 @@ transcription_status: "incomplete"
 tags: [interviews]
 ---
 
-
-
 # The Chiral Network II
-
-**Who:** Mama  
-**When:** Three Years Ago - Before First Expediti [clipped]  
-**Where:** Central Knot City HQ
 
 In a way, the chiral network makes use of the Beach to allow us to travel through time. See, sending large amounts of data takes large amounts of time—as you'd expect. But the thing about Beaches is, well...time doesn't pass the same way in 'em as it does out here. Might not even pass at all.
 

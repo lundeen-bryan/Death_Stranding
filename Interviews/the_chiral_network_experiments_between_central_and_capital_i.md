@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "The Chiral Network Experiments Between Central and Capital I"
 who: "Die-Hardman"
 when: "One Year and Some Months Ago"
 where: "Capital Knot City"
 tags: [interviews]
 ---
 
-
-
 # The Chiral Network Experiments Between Central and Capital I
-
-**Who:** Die-Hardman  
-**When:** One Year and Some Months Ago  
-**Where:** Capital Knot City
 
 Madam President, this will be your new office from today. The relocation of your official residence has also been completed, and the entire medical team has been brought along as well. Rest assured that information regarding this move has been shared on a need to know basis only.
 

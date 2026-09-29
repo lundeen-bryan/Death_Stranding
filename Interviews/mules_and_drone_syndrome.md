@@ -1,19 +1,12 @@
 ---
 date: 2026-09-11
-title: "MULEs and Drone Syndrome"
 who: "Die-Hardman"
 when: "Two Years Ago"
 where: "Bridges HQ"
 tags: [interviews]
 ---
 
-
-
 # MULEs and Drone Syndrome
-
-**Who:** Die-Hardman  
-**When:** Two Years Ago  
-**Where:** Bridges HQ
 
 Bridges' primary objective is to rebuild America. And in order to rebuild, one of our main tasks is to reconnect cities and other settlements by re-establishing a delivery network.
 

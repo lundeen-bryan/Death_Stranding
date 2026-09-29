@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "The Chiral Network Experiments Between Central and Capital II"
 who: "Die-Hardman"
 when: "One Year Ago"
 where: "Capital Knot City"
 tags: [interviews]
 ---
 
-
-
 # The Chiral Network Experiments Between Central and Capital II
-
-**Who:** Die-Hardman  
-**When:** One Year Ago  
-**Where:** Capital Knot City
 
 Madam President, I'm happy to report that the trial run was a success. The connection between Central and Capital was established without incident—no chiral spikes or other irregularities. The Q-pid functioned within acceptable parameters as well.
 

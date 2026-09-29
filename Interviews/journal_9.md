@@ -1,6 +1,5 @@
 ---
 date: 2026-09-15
-title: "Journal #9"
 category: "An Unknown Man's Journal"
 who: "Unknown"
 when: "Writing year unknown"
@@ -8,13 +7,7 @@ where: "Unknown"
 tags: [interviews/an-unknown-man-s-journal]
 ---
 
-
-
 # Journal #9
-
-**Who:** Unknown  
-**When:** Writing year unknown  
-**Where:** Unknown
 
 My partner's powers are extraordinary, sure, but deep down I know the two of us alone don't have what it takes to bring true, lasting freedom to the people.
 

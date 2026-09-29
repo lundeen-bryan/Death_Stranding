@@ -7,14 +7,6 @@ where: "Unknown"
 tags: [interviews]
 ---
 
-
-
-# Memo #2: From Mother to Daughter
-
-**Who:** Unknown  
-**When:** Unknown  
-**Where:** Unknown
-
 I’m sorry. Five years isn’t enough time to get your bearings, much less live a life.
 
 You were the only one I could save. Could only dig graves for the others. And then for you, in the end. Dig and grieve and try to make amends.

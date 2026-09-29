@@ -1,6 +1,5 @@
 ---
 date: 2026-09-12
-title: "Terrorists Posing as Fragile Express Couriers"
 category: "Preppers"
 who: "The Craftsman"
 when: "One Year Ago"
@@ -8,13 +7,7 @@ where: "Personal Shelter"
 tags: [interviews/preppers]
 ---
 
-
-
 # Terrorists Posing as Fragile Express Couriers
-
-**Who:** The Craftsman  
-**When:** One Year Ago  
-**Where:** Personal Shelter
 
 The terrorists have been at it again lately. You heard, right? ==About how they've been sneaking in and out of cities disguised as Fragile Express couriers?== We'll have another disaster on our hands at this rate...but it's not like we can just cut them out. We need Fragile's people to keep on doing what they're doing. We rely on those guys for a lot—though maybe we shouldn't...
 

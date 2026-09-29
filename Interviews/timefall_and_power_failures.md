@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Timefall and Power Failures"
 who: "Igor"
 when: "Three Years Ago"
 where: "Central Knot City"
 tags: [interviews]
 ---
 
-
-
 # Timefall and Power Failures
-
-**Who:** Igor  
-**When:** Three Years Ago  
-**Where:** Central Knot City
 
 I volunteered to join Bridges. Signed up with my brother, Viktor. See, we both remembered when America was still America. When we still had planes and satellites, when we were still connected to everyone and everything. The world was different. Bigger. And we wanted it back.
 

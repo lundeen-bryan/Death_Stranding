@@ -1,6 +1,5 @@
 ---
 date: 2026-09-15
-title: "Journal #8"
 category: "An Unknown Man's Journal"
 who: "Unknown"
 when: "Writing year unknown"
@@ -8,13 +7,7 @@ where: "Unknown"
 tags: [interviews/an-unknown-man-s-journal]
 ---
 
-
-
 # Journal #8
-
-**Who:** Unknown  
-**When:** Writing year unknown  
-**Where:** Unknown
 
 The rumors I'd heard about my new partner's powers don't do her justice. I knew she had DOOMS, but she's on a whole other level. I tell you, I've never seen anything like it. Not only can she perceive BTs, but she can actually use the Beach!
 

@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Likes Secrete Oxytocin"
 who: "Die-Hardman"
 when: "Four Years Ago"
 where: "Bridges HQ"
 tags: [interviews]
 ---
 
-
-
 # Likes Secrete Oxytocin
-
-**Who:** Die-Hardman  
-**When:** Four Years Ago  
-**Where:** Bridges HQ
 
 Before the Stranding, the whole world was connected. There were networks—"social networks" we called them—that people used to communicate all the time. They shared all sorts of stuff through them. A random thought, a pretty picture, a home movie—you name it. And if you liked something that someone else had uploaded, you let them know by giving them, well, a "like." Sounds weird, I know, but that's the truth.
 

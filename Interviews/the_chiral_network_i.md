@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
-tags: [interviews]
----
-
-
-
----
-title: "The Chiral Network I"
 who: "Mama"
 when: "[Beginning clipped] - Before First Expedition's Departure"
 where: "Central Knot City HQ"
+tags: [interviews]
 ---
 
 # The Chiral Network I
-
-**Who:** Mama  
-**When:** [Beginning clipped] - Before First Expedition's Departure  
-**Where:** Central Knot City HQ
 
 So the core infrastructure is complete. The basic Q-pid-ready chiral network setup is good to go. Now all we have to do is connect Central Knot City to Capital and prove that it actually works. Sadly, I won't be here to see it. I've been assigned to the expedition team's second group, so I'll be heading west with the others.
 

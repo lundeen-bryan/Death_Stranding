@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Timefall"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ Lab"
 ---
 
 # Timefall
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 Timefall was first recorded when the Death Stranding occurred. And despite all the years that have passed since then, we are no closer to understanding how or why it accelerates the passage of time for the objects and organisms it touches—or why it immediately turns to ordinary water having done so. Some researchers have gone as far as to posit this process as "stealing" time.
 

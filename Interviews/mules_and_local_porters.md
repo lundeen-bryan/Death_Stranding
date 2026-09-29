@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "MULEs and Local Porters"
 who: "Die-Hardman"
 when: "Two Years Ago"
 where: "Bridges HQ"
 tags: [interviews]
 ---
 
-
-
 # MULEs and Local Porters
-
-**Who:** Die-Hardman  
-**When:** Two Years Ago  
-**Where:** Bridges HQ
 
 When people hear "MULEs," they think, "junkies driven crazy by a desire to steal supplies we so desperately need to survive." Lucky for us, not all couriers are predisposed to this condition. Not all MULEs, in fact. They were professionals once, and some still are. Some even complete proper deliveries from time to time. Fragile Express has been known to use them, along with independent porters.
 

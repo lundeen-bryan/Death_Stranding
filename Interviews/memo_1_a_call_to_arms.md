@@ -1,6 +1,8 @@
-Title: Memo #1: A Call to Arms
-Who: Unknown
-Where: Unknown
+---
+title: "Memo #1: A Call to Arms"
+who: Unknown
+where: Unknown
+---
 
 We're not done yet.
 Hardly even started, and far from finished.

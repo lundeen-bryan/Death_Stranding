@@ -1,6 +1,5 @@
 ---
 date: 2026-09-15
-title: "Prepper Interview: The Junk Dealer"
 category: "Preppers"
 who: "The Junk Dealer"
 when: "Six Months Ago"
@@ -8,13 +7,7 @@ where: "Personal Shelter"
 tags: [interviews/preppers]
 ---
 
-
-
 # Prepper Interview: The Junk Dealer
-
-**Who:** The Junk Dealer  
-**When:** Six Months Ago  
-**Where:** Personal Shelter
 
 Incredible, isn't it? This hourglass. See how the sand flows upwards? Got chiral particles in it, that's why it moves like that. And look at the shape of the glass. So elegant, so delicate... Just like the girl who made it. Hard to believe it's even of this world. But it was made by human hands, all right. Crazy, isn't it? No wonder everyone in South Knot City knows her work. You can imagine how I felt when she gave it to me...
 

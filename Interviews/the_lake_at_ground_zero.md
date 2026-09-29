@@ -1,6 +1,5 @@
 ---
 date: 2026-09-12
-title: "The Lake at Ground Zero"
 category: "Bridges Staff"
 who: "Viktor"
 when: "Two and a Half Years Ago"
@@ -8,13 +7,7 @@ where: "Port Knot City"
 tags: [interviews]
 ---
 
-
-
 # The Lake at Ground Zero
-
-**Who:** Viktor  
-**When:** Two and a Half Years Ago  
-**Where:** Port Knot City
 
 When I first laid eyes on the lake here at Ground Zero, I was blown away by the sheer size of it. I never imagined anything could be so huge. This was just after the Death Stranding, and not many people had seen the craters up close yet...
 

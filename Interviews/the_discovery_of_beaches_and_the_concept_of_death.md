@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "The Discovery of Beaches and the Concept of Death"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ Lab"
 ---
 
 # The Discovery of Beaches and the Concept of Death
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 With the discovery of the Beach, the fundamental truth of death was upended. I doubt you will find many who would deny this. Alas, we can say little with confidence in any objective or scientific capacity, for our understanding of this new realm remains in its infancy and is ever evolving, much like our understanding of the universe as a whole. Perhaps the closest thing we have to a working explanation of the Beach relates to the conception of a multiverse...but I digress.
 
