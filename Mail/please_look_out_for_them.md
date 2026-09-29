@@ -1,19 +1,11 @@
 ---
 date: 2026-09-15
-title: "Please Look Out for Them"
 sender: "The Chiral Artist's Mother"
 location: "S37-89"
 date_time: "09/14 21:51"
 tags: [mail]
+title: "Please Look Out for Them"
 ---
-
-
-
-# Please Look Out for Them
-
-**Sender:** The Chiral Artist's Mother  
-**Location:** S37-89  
-**Date & Time:** 09/14 21:51
 
 Dear Sam,
 
@@ -28,7 +20,6 @@ I've tried to make up for it. My daughter's leaving the nest at last, and I coul
 
 - [[we_got_married|We Got Married!]]
 - [[to_do_list|TO DO List]] — optional social visit, with no formal order specified.
-
 
 ## Screenshot supplied 2026-09-20
 
