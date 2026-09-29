@@ -21,6 +21,10 @@ This isn't urgent or anything, but if you could fit it into your schedule someho
 
 Much obliged, as always.
 
+## Location of mission
+
+
+
 ---
 *Transcribed from DeathStranding_ 021.jpg. Decorative reaction icons omitted. Original yellow highlights preserved. The clipped opening of the subject has been reconstructed as “[Recovery Request].”*
 
