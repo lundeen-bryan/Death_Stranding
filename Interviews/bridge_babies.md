@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Bridge Babies"
 who: "Deadman"
 when: "One Year Ago"
 where: "Bridges HQ"
 ---
 
 # Bridge Babies
-
-**Who:** Deadman  
-**When:** One Year Ago  
-**Where:** Bridges HQ
 
 Look, I'm kind of new here at Bridges, so I don't know if any of this will be useful to you... Still, I'm happy to talk about BBs, if that's what you want.
 

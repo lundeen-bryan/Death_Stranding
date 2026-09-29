@@ -1,6 +1,5 @@
 ---
 date: 2026-09-12
-title: "Journal #3"
 category: "An Unknown Man's Journal"
 who: "Unknown"
 when: "Writing year unknown"
@@ -8,13 +7,7 @@ where: "Unknown"
 tags: [interviews/an-unknown-man-s-journal]
 ---
 
-
-
 # Journal #3
-
-**Who:** Unknown  
-**When:** Writing year unknown  
-**Where:** Unknown
 
 A delivery outfit out west heard tell of my BT-sensing abilities, and has expressed an interest in bringing me on board. Seems they operate outside Bridges' sphere of influence, and they want to leverage my experience and know-how to expand their operation. Could be interesting.
 

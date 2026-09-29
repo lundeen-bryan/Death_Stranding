@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "BTs are Reaching Out to Us"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ"
 ---
 
 # BTs are Reaching Out to Us
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ
 
 2.4 million years ago, Homo habilis started to craft stone tools.
 

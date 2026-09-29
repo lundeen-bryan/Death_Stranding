@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Fear as Pleasure"
 who: "Deadman"
 when: "Three Years Ago"
 where: "Bridges HQ"
 tags: [interviews]
 ---
 
-
-
 # Fear as Pleasure
-
-**Who:** Deadman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ
 
 Whether they realize it or not, the people of our fallen nation suffer greatly as a result of the separation and isolation we all must endure. That's why Oxytocin supplementation is so vital. However, not all of us require it to survive. In fact, recent studies have shown something very interesting indeed: an increase in the number of people who regard fear not as a stressful experience to be avoided, but a pleasurable one to be sought out.
 

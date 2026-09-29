@@ -1,6 +1,5 @@
 ---
 date: 2026-09-20
-title: "Fragile's Father and Fragile Express"
 category: "Fragile"
 who: "Fragile"
 when: "One Year Ago"
@@ -10,10 +9,6 @@ tags: [interviews/fragile]
 ---
 
 # Fragile's Father and Fragile Express
-
-**Who:** Fragile  
-**When:** One Year Ago  
-**Where:** Lake Knot City
 
 My father came up with the name "Fragile Express" before I was born. The US was Swiss cheese back then—all the voidouts had left craters as far as the eye could see. People were losing their minds looking for a way out. They thought the government would have their back, but it was gone. All the systems, all the gears that kept their world turning, smashed to bits in a matter of seconds. When everything you know breaks, it's hard not to break yourself.
 

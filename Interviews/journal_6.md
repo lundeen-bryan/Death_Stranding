@@ -1,6 +1,5 @@
 ---
 date: 2026-09-15
-title: "Journal #6"
 category: "An Unknown Man's Journal"
 who: "Unknown"
 when: "Writing year unknown"
@@ -8,13 +7,7 @@ where: "Unknown"
 tags: [interviews/an-unknown-man-s-journal]
 ---
 
-
-
 # Journal #6
-
-**Who:** Unknown  
-**When:** Writing year unknown  
-**Where:** Unknown
 
 A Bridges waystation out west just got taken out by terrorists. Used a voidout to do it. They dumped a corpse nearby and let it go necro, dropping BTs right in people's laps. Word is Demens heard that Bridges was sending an expeditionary force out west to "facilitate the reconstruction of America" or some such. Guess they didn't take kindly to that.
 

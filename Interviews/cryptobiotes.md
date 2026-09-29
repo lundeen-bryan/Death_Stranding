@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Cryptobiotes"
 who: "Fragile"
 when: "Two Years Ago"
 where: "Fragile Express HQ"
 ---
 
 # Cryptobiotes
-
-**Who:** Fragile  
-**When:** Two Years Ago  
-**Where:** Fragile Express HQ
 
 We call these bugs cryptobiotes. They were recorded in reference books and databases back before the Death Stranding, but nobody ever thought to give them a proper classification, so "cryptobiotes" they stayed.
 

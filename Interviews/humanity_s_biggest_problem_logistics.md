@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Humanity’s Biggest Problem? Logistics"
 who: "Die-Hardman"
 when: "Five Years Ago"
 where: "Bridges HQ"
 ---
 
 # Humanity’s Biggest Problem? Logistics
-
-**Who:** Die-Hardman  
-**When:** Five Years Ago  
-**Where:** Bridges HQ
 
 War and famine have been inescapable parts of human life since the rise of our species. And while the fall of America hasn't changed this fundamental truth, it's fair to say that these issues aren't pressing concerns.
 

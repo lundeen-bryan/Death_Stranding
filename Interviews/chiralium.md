@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Chiralium"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ Lab"
 ---
 
 # Chiralium
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 You would like to know more about chiralium? Well, wouldn't we all... I am happy to present the latest theories, but you must be aware that this is all that they are—theories.
 

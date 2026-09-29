@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Chiral Contamination I"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ Lab"
 ---
 
 # Chiral Contamination I
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 Chiral contamination is the result of prolonged exposure to chiral radiation, which is emitted by chiralium, a substance discovered at the same time as the Beach. Prolonged exposure can significantly impact physical and mental health.
 

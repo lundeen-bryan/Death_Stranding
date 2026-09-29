@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "BB Echolocation"
 who: "Deadman"
 when: "One Year Ago"
 where: "Bridges HQ"
 ---
 
 # BB Echolocation
-
-**Who:** Deadman  
-**When:** One Year Ago  
-**Where:** Bridges HQ
 
 Dolphins use a sensory mechanism known as echolocation to keep track of both their fellow pod members and any potential prey. As the name suggests, they produce sounds which bounce off objects and return as echoes, allowing them to get an idea of their surroundings. Interesting in and of itself, of course, but what I find far more interesting is the recent research suggesting that BBs use a similar method to detect BTs.
 

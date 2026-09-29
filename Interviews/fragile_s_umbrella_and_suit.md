@@ -1,6 +1,5 @@
 ---
 date: 2026-09-13
-title: "Fragile's Umbrella and Suit"
 category: "Other"
 who: "Fragile Express Staffer"
 when: "Two Years Ago"
@@ -8,13 +7,7 @@ where: "South Knot City"
 tags: [interviews]
 ---
 
-
-
 # Fragile's Umbrella and Suit
-
-**Who:** Fragile Express Staffer  
-**When:** Two Years Ago  
-**Where:** South Knot City
 
 You think that thing Fragile carries is an umbrella? I can see why you'd jump to that conclusion, what with the shape and all, but you're wrong. If it's any consolation, I thought it was an umbrella, too, at first. It's actually some kind of navigational device that Fragile came up with herself. I won't pretend to understand the theory behind it, but I'm told it factors chiral density across Beaches and plots coordinates for her jumps.
 

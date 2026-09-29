@@ -1,22 +1,12 @@
 ---
 date: 2026-09-11
 tags: [interviews]
----
-
-
-
----
-title: "Chiral Contamination II"
 who: "Heartman"
 when: "Three Years Ago"
 where: "Bridges HQ Lab"
 ---
 
 # Chiral Contamination II
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 Chiral contamination can be alleviated using similar methods to those used to alleviate stress: increasing oxytocin secretion through contact with other people, administering smart drugs, and so forth.
 
