@@ -1,6 +1,7 @@
 ---
 date: 2026-09-20
 tags: [locations]
+aliases: [S37-65]
 ---
 
 # Junk Dealer

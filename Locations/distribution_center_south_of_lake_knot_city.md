@@ -1,12 +1,13 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: UCA-23-086
 ---
 
 # Distribution Center South of Lake Knot City
 
-**Region:** Central Region  
-**Contact:** Thomas Southerland  
+**Region:** Central Region
+**Contact:** Thomas Southerland
 **Location code:** UCA-23-086
 
 ## Description

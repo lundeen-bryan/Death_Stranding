@@ -1,6 +1,7 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: S23-06
 ---
 
 # The Engineer

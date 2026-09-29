@@ -1,11 +1,12 @@
 ---
 date: 2026-09-18
 tags: [locations]
+aliases: [S02-01]
 ---
 
 # Ludens Fan
 
-**Contact:** The Ludens Fan  
+**Contact:** The Ludens Fan
 **Location code:** S02-01
 
 ## Tasks

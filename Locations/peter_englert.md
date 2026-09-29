@@ -1,11 +1,12 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: [S23-84]
 ---
 
 # Peter Englert
 
-**Contact:** Peter Englert  
+**Contact:** Peter Englert
 **Location code:** S23-84
 
 ## Description

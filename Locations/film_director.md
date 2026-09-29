@@ -1,12 +1,13 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: S23-71
 ---
 
 # Film Director
 
-**Region:** Central Region  
-**Contact:** The Film Director  
+**Region:** Central Region
+**Contact:** The Film Director
 **Location code:** S23-71
 
 ## Description

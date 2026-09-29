@@ -1,12 +1,13 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: S23-18
 ---
 
 # The Elder
 
-**Region:** Central Region  
-**Contact:** The Elder  
+**Region:** Central Region
+**Contact:** The Elder
 **Location code:** S23-18
 
 ## Description

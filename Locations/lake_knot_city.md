@@ -1,6 +1,7 @@
 ---
 date: 2026-09-19
 tags: [locations]
+aliases: [UCA-23-105]
 ---
 
 # Lake Knot City
@@ -10,6 +11,10 @@ tags: [locations]
 ## Description
 
 Pickup location for Peter Englert's requested pizza and the return destination for William L's cube lost near Peter's shelter, according to the supplied mail.
+
+## Private Room Number
+
+![Lake Knot City private-room floor emblem and ID UCA-23-105](../Misc_Tips/Attachments/lake_knot_city_private_room_floor.jpg)
 
 ## Tasks
 
