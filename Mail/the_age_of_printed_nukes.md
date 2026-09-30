@@ -1,18 +1,15 @@
 ---
 date: 2026-09-13
-title: "The Age of Printed Nukes"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/14 00:17"
 tags: [mail]
 ---
 
-
-
 # The Age of Printed Nukes
 
-**Sender:** The Craftsman  
-**Location:** S23-21  
+**Sender:** The Craftsman
+**Location:** S23-21
 **Date & Time:** 09/14 00:17
 
 I used to have this prepper friend, an older guy, who'd always talk about how the good ol' days before the Stranding. 3D printing was all the rage, apparently, and the tech could be used to spit out pretty much anything you could think of, even the most complicated stuff. Didn't take long for the first gun to be printed: all you had to do was input the right data, and you had yourself a firearm. People didn't think much of it at first—just kids messing around and all that—but it didn't stop there. Printed guns became printed bombs, and printed bombs became printed nukes. Illegal as hell, of course, but the government couldn't do anything to stop it.

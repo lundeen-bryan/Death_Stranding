@@ -1,13 +1,11 @@
 ---
 date: 2026-09-18
 tags: [mail]
+sender: "Viktor Frank"
+location: "Port Knot City"
 ---
 
 # About My Brother
-
-**Sender:** Viktor Frank  
-**Location:** Port Knot City  
-**Date & Time:** 09/18 14:15
 
 Ever since you told me about my brother, I haven’t been able to stop thinking about him. I want to make one thing clear, though: I don’t blame you for what happened. Igor wouldn’t either, I know that. It’s weird, though. We weren’t all that close, and back when he was alive I’d go weeks without thinking about him, but now... Well, ain't that the way these things always go?
 
@@ -19,5 +17,3 @@ You still got that little keepsake of his? Sounds kinda stupid, but I’ve start
 
 ---
 *Transcribed from DeathStranding_.jpg (09/18 14:15). Reaction icons are preserved in the screenshot.*
-
-

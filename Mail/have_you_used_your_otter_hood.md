@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "Have You Used Your Otter Hood?"
 sender: "The Wandering MC"
 location: "S37-80"
 date_time: "09/15 15:31"
 tags: [mail]
 ---
 
-
-
 # Have You Used Your Otter Hood?
-
-**Sender:** The Wandering MC  
-**Location:** S37-80  
-**Date & Time:** 09/15 15:31
 
 When I was younger, I was something of a professional host. I'd travel all over the country and speak at events, meet interesting people, and so on. In my own little way, I was helping to bring America together, too. I really believe that. Sure, I was scared of BTs, but I had lots of porter friends, so we used to travel together from city to city. They called me the wandering host!
 

@@ -1,18 +1,15 @@
 ---
 date: 2026-09-12
-title: "Your Bridge Link Grade Makes the World a Better Place"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/12 15:07"
 tags: [mail]
 ---
 
-
-
 # Your Bridge Link Grade Makes the World a Better Place
 
-**Sender:** George Baton  
-**Location:** Waystation West of Capital Knot City  
+**Sender:** George Baton
+**Location:** Waystation West of Capital Knot City
 **Date & Time:** 09/12 15:07
 
 Hey, Sam. Sounds like you’re still showing us all how it’s done. I’ve been making more and more deliveries myself, though, I'll have you know! The oxy really helps me to cope with the fear, so thanks for that. But don't go thinking I’ve got ice in my veins or anything. I still panic easy, and still drop plenty of cargo when I do...

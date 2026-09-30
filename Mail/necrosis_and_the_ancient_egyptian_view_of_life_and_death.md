@@ -1,13 +1,11 @@
 ---
 date: 2026-09-17
 tags: [mail]
+sender: Heartman
+location: "Bridges HQ Lab"
 ---
 
 # Necrosis and the Ancient Egyptian View of Life and Death
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 ==The Egyptians believed that we humans were composed of two elements: the Ha and the Ka. The body and the soul.== Various texts expound upon their nature in detail, but perhaps it is simplest to conceive of them as follows: the soul is that which joins with the child in the womb and gives life to the body. It is also that which departs the body upon death. Ergo, the body is simply a vessel. Should the soul return to it, it will live again.
 
@@ -17,6 +15,3 @@ It was hard to believe at first, but the process of necrosis provided proof of t
 
 ---
 *Transcribed from DeathStranding_ 003.jpg. Original yellow highlights preserved. This entry appears under Interviews in the game.*
-
-
-

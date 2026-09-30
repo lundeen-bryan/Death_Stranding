@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "One Step Closer to Understanding the Beach"
 sender: "The Engineer"
 location: "S23-06"
 date_time: "09/13 01:00"
 tags: [mail]
 ---
 
-
-
 # One Step Closer to Understanding the Beach
-
-**Sender:** The Engineer  
-**Location:** S23-06  
-**Date & Time:** 09/13 01:00
 
 Hey Sam,
 
@@ -23,6 +16,9 @@ You know what it reminds me of? Pictures. After all, what's a picture but a frag
 
 They say we've each got our own Beach, and it's these Beaches that we route the network through. Maybe that's a part of it—maybe there's more of us and our memories in our Beaches than we realize. But I'm just a layman when it comes to this stuff. If anything, you've got a better chance of understanding it. You're the one with DOOMS, after all.
 
+## Location
+
+[[engineer | The Engineer S23-06]]
+
 ---
 *Transcribed from DeathStranding_ 018.jpg. Decorative reaction icons omitted.*
-

@@ -2,13 +2,10 @@
 date: 2026-09-12
 location: "S23-84"
 tags: [mail, todo-finished, pizza]
+sender: "Peter Englert"
 ---
 
 # A Humble Request for Pizza
-
-**Sender:** Peter Englert
-**Location:** S23-84
-**Date & Time:** 09/12 21:45
 
 My Dear Mr. Sam Bridges,
 

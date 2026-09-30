@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Re-establishing Shipping Lanes"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/13 01:00"
 tags: [mail]
 ---
 
-
-
 # Re-establishing Shipping Lanes
-
-**Sender:** Viktor Frank  
-**Location:** Port Knot City  
-**Date & Time:** 09/13 01:00
 
 How's it going, Sam? So you put Port Knot City back on the map. Not bad.
 
@@ -25,6 +18,9 @@ There was a time when I was so shit scared of BTs that I just wanted to shut mys
 
 I won’t take up any more of your time. That’s all I had to say, anyway—a couple of the guys wanted me to write you to make sure you knew we had your back. Come what may, we won’t be throwing in the towel. Same goes for you, right?
 
+## Location
+
+[[port_knot_city]]
+
 ---
 *Transcribed from DeathStranding_ 019.jpg. Decorative reaction icons omitted.*
-

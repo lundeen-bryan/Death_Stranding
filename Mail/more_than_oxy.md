@@ -1,13 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
+sender: "George Baton"
+location: "Waystation West of Capital Knot City"
 ---
 
 # More than Oxy
-
-**Sender:** George Baton  
-**Location:** Waystation West of Capital Knot City  
-**Date & Time:** 09/17 05:05
 
 Sam the man, our savior!
 
@@ -25,6 +23,3 @@ And that’s why we need you, Sam! You’re not scared of anything, right? So go
 *Transcribed from DeathStranding_ 084.jpg. Decorative reaction and category icons omitted.*
 
 *Also verified against DeathStranding_ 002.jpg (09/17 05:05).*
-
-
-

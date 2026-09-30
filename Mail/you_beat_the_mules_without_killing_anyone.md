@@ -1,18 +1,15 @@
 ---
 date: 2026-09-12
-title: "You Beat the MULEs—WITHOUT Killing Anyone!?"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/12 22:36"
 tags: [mail]
 ---
 
-
-
 # You Beat the MULEs—WITHOUT Killing Anyone!?
 
-**Sender:** The Craftsman  
-**Location:** S23-21  
+**Sender:** The Craftsman
+**Location:** S23-21
 **Date & Time:** 09/12 22:36
 
 Dear Sam,
@@ -27,4 +24,3 @@ I guess it must have done, if you managed to get out of there without killing an
 
 ---
 *Transcribed from DeathStranding_ 002.jpg. Decorative reaction icons omitted.*
-

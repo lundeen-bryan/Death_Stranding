@@ -1,13 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
+sender: "Jake Wind"
+location: "Wind Farm"
 ---
 
 # Our Hard Work Is Paying Off
-
-**Sender:** Jake Wind  
-**Location:** Wind Farm  
-**Date & Time:** 09/18 04:23
 
 Dear Sam,
 
@@ -23,6 +21,3 @@ I'm still not 100% on the details, but basically, transmitting it via the Beach 
 ![[Misc_Tips/Attachments/mail_our_hard_work_is_paying_off_2026_09_18.jpg]]
 
 *Verified against the supplied 09/18 04:23 screenshot; original reaction icons are preserved above.*
-
-
-

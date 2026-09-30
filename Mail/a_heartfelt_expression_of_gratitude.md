@@ -1,6 +1,5 @@
 ---
 date: 2026-09-19
-title: "A Heartfelt Expression of Gratitude"
 sender: "Peter Englert"
 location: "S23-84"
 date_time: "09/19 17:24"
@@ -8,10 +7,6 @@ tags: [mail]
 ---
 
 # A Heartfelt Expression of Gratitude
-
-**Sender:** Peter Englert  
-**Location:** [[Locations/peter_englert|S23-84 — Peter Englert]]  
-**Date & Time:** 09/19 17:24
 
 My Dear Mr. Bridges,
 
@@ -28,5 +23,3 @@ Preserves the original reaction symbols.
 ![[Misc_Tips/Attachments/mail_heartfelt_gratitude_2026-09-19.jpg]]
 
 *Transcribed from the supplied screenshot. Decorative reactions omitted from the text.*
-
-

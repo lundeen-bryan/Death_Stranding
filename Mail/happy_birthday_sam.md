@@ -1,19 +1,11 @@
 ---
 date: 2026-09-15
-title: "Happy Birthday, Sam!"
 sender: "All Bridges Members"
 location: null
-date_time: "09/15 00:51"
 tags: [mail]
 ---
 
-
-
 # Happy Birthday, Sam!
-
-**Sender:** All Bridges Members  
-**Location:** Not shown  
-**Date & Time:** 09/15 00:51
 
 Happy Birthday, Sam!
 

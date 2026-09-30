@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "[Order] Delivery for a Prepper"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 21:43"
 tags: [mail]
 ---
 
-
-
 # **[Order] Delivery for a Prepper**
-
-**Sender:** Thomas Southerland  
-**Location:** Distribution Center South of Lake Knot City  
-**Date & Time:** 09/14 21:43
 
 Sam, I have a delivery request for you. There's a prepper out there who's got a special talent. Calls herself a "**cosplayer,**" and she can apparently dress herself up to look like damn near anyone and anything.
 
@@ -33,7 +26,6 @@ There's no one better when it comes to designing and making clothes and accessor
 ## Related notes
 
 - [[to_do_list|TO DO List]] — sewing-kit delivery to the Cosplayer. Check the sender's distribution center for the order; the mail does not explicitly state its pickup point or order number. Acceptance and completion have not been reported.
-
 
 ## Screenshot supplied 2026-09-20
 

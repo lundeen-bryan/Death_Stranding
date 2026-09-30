@@ -1,18 +1,15 @@
 ---
 date: 2026-09-15
-title: "We Got Married!"
 sender: "The Chiral Artist"
 location: "S37-89"
 date_time: "09/14 21:51"
 tags: [mail]
 ---
 
-
-
 # We Got Married!
 
-**Sender:** The Chiral Artist  
-**Location:** S37-89  
+**Sender:** The Chiral Artist
+**Location:** S37-89
 **Date & Time:** 09/14 21:51
 
 How are you holding up, Sam?

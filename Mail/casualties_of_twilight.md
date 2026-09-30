@@ -1,13 +1,11 @@
 ---
 date: 2026-09-18
 tags: [mail]
+sender: "George Baton"
+location: "Waystation West of Capital Knot City"
 ---
 
 # "Casualties of Twilight"
-
-**Sender:** George Baton  
-**Location:** Waystation West of Capital Knot City  
-**Date & Time:** 09/18 11:52
 
 Hey, Sam.
 
@@ -23,12 +21,13 @@ I didn't think it'd get mixed up with a consignment of cargo that'd be stolen by
 
 I really panicked once I'd heard it was gone. So yeah, thanks for bringing it back. I really appreciate it!
 
+## Location
+
+[[waystation_west_of_capital_knot_city]]
+
 ## Screenshot
 
 ![[Misc_Tips/Attachments/mail_casualties_of_twilight_2026_09_18.jpg]]
 
 ---
 *Transcribed from the supplied in-game screenshot. Icons are preserved in the screenshot.*
-
-
-

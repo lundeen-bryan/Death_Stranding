@@ -1,18 +1,15 @@
 ---
 date: 2026-09-15
-title: "The Amazing Potential of Hologram Generators"
 sender: "The Film Director"
 location: "S23-71"
 date_time: "09/14 22:26"
 tags: [mail]
 ---
 
-
-
 # The Amazing Potential of Hologram Generators
 
-**Sender:** The Film Director  
-**Location:** S23-71  
+**Sender:** The Film Director
+**Location:** S23-71
 **Date & Time:** 09/14 22:26
 
 I'm grateful to you, Sam. It really was you, every time.

@@ -1,13 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
+sender: "Benjamin H"
+location: [[distribution_center_west_of_capital_knot_city]]
 ---
 
 # [Test Order] [λ] I Want You to Look for Some Lost Cargo
-
-**Sender:** Benjamin H  
-**Location:** Distribution Center West of Capital Knot City  
-**Date & Time:** 09/18 03:32
 
 You're doing very well, Sam Bridges! I guess I should expect nothing less from the Great Deliverer, though. Yeah, I’ve heard the stories—rumor has it that you’re a big Half-Life fan. Once we were united, but now we’ve been scattered all over... But that’s why we’ve got to keep working, right?
 
@@ -23,6 +21,3 @@ You’re the only one who can help me, Sam. I’m counting on you.
 *Transcribed from DeathStranding_ 078.jpg. Decorative reaction and category icons omitted.*
 
 *Verified against DeathStranding_.jpg (in-game date and time: 09/18 03:32).*
-
-
-

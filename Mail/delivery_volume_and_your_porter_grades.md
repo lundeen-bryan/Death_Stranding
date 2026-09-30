@@ -1,22 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
----
-
-
-
----
-title: "Delivery Volume and Your Porter Grades"
 sender: "Nick Easton"
 location: "Capital Knot City"
-date_time: "09/12 00:19"
 ---
 
 # Delivery Volume and Your Porter Grades
-
-**Sender:** Nick Easton  
-**Location:** Capital Knot City  
-**Date & Time:** 09/12 00:19
 
 How are your porter grades these days, Sam? I’m sure you’re aware that trying to account for all five factors is the basic premise, but if you're anything like me, you ==just want to deliver as much Delivery Volume as you can,== am I right? If so, you could always just load yourself up with a massive haul and aim for a Bridges bonus for total cargo weight. Nothing wrong with the simple approach!
 

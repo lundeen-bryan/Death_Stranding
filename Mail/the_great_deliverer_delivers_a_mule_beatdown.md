@@ -1,18 +1,15 @@
 ---
 date: 2026-09-12
-title: "The Great Deliverer Delivers a MULE Beatdown!"
 sender: "The Engineer"
 location: "S23-06"
 date_time: "09/12 22:36"
 tags: [mail]
 ---
 
-
-
 # The Great Deliverer Delivers a MULE Beatdown!
 
-**Sender:** The Engineer  
-**Location:** S23-06  
+**Sender:** The Engineer
+**Location:** S23-06
 **Date & Time:** 09/12 22:36
 
 Hey Sam,
@@ -27,4 +24,3 @@ I feel a bit pathetic, just cheering you on from the sidelines, but I guess that
 
 ---
 *Transcribed from DeathStranding_ 003.jpg. Decorative reaction icons omitted.*
-

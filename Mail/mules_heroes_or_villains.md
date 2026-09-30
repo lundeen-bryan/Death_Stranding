@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "MULEs: Heroes or Villains?"
 sender: "The Craftsman"
-location: "S23-21"
+location: [S23-21, craftsman]
 date_time: "09/12 22:19"
 tags: [mail]
 ---
 
-
-
 # MULEs: Heroes or Villains?
-
-**Sender:** The Craftsman  
-**Location:** S23-21  
-**Date & Time:** 09/12 22:19
 
 Hey Sam,
 
@@ -29,4 +22,3 @@ Anyway, Sam, ==I doled out a few of those hematic grenades you brought me to som
 
 ---
 *Transcribed from DeathStranding_ 004.jpg. Decorative reaction icons omitted. Original yellow highlights preserved.*
-

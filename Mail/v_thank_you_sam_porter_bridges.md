@@ -1,6 +1,5 @@
 ---
 date: 2026-09-12
-title: "[V] Thank You, Sam Porter Bridges"
 sender: "Your partner \"J\""
 location: null
 date_time: "09/13 00:14"
@@ -8,12 +7,10 @@ transcription_status: "complete"
 tags: [mail]
 ---
 
-
-
 # ==[V] Thank You, Sam Porter Bridges==
 
-**Sender:** Your partner "J"  
-**Location:** Not shown  
+**Sender:** Your partner "J"
+**Location:** Not shown
 **Date & Time:** 09/13 00:14
 
 I have no clue who I am.

@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "I Dreamed of My Brother"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/12 16:48"
 tags: [mail]
 ---
 
-
-
 # I Dreamed of My Brother
-
-**Sender:** Viktor Frank  
-**Location:** Port Knot City  
-**Date & Time:** 09/12 16:48
 
 Hey, Sam, how's it going? Getting enough sleep? Dreaming good dreams? I hope you are. Even the Great Deliverer needs his rest. Don't go burning the candle at both ends, okay?
 
@@ -27,4 +20,3 @@ Anyway, I guess I'll see you around. Keep up the good work.
 
 ---
 *Transcribed from DeathStranding_ 012.jpg. Decorative reaction icons omitted.*
-

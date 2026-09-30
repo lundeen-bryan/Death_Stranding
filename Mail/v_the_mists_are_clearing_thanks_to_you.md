@@ -1,18 +1,15 @@
 ---
 date: 2026-09-15
-title: "[V] The Mists Are Clearing, Thanks to You"
 sender: 'Your partner "J"'
 location: null
 date_time: "09/15 23:49"
 tags: [mail]
 ---
 
-
-
 # [V] The Mists Are Clearing, Thanks to You
 
-**Sender:** Your partner "J"  
-**Location:** Not shown  
+**Sender:** Your partner "J"
+**Location:** Not shown
 **Date & Time:** 09/15 23:49
 
 You're a good mano, Sam.

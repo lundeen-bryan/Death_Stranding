@@ -6,9 +6,6 @@ aliases: S37-80
 
 # Cosplayer
 
-**Location code:** S37-80
-**Residents:** The Cosplayer and the Wandering MC
-
 The Cosplayer made Sam's otter hood. Their mail invites a return visit to connect with the UCA.
 
 ## Tasks

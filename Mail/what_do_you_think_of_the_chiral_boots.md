@@ -1,6 +1,5 @@
 ---
 date: 2026-09-20
-title: "What Do You Think of the Chiral Boots?"
 sender: "The Chiral Artist's Mother"
 location: "S37-89"
 date_time: "09/20 16:52"
@@ -9,8 +8,8 @@ tags: [mail]
 
 # What Do You Think of the Chiral Boots?
 
-**Sender:** The Chiral Artist's Mother  
-**Location:** S37-89  
+**Sender:** The Chiral Artist's Mother
+**Location:** S37-89
 **Date & Time:** 09/20 16:52
 
 Dear Sam,
@@ -32,5 +31,3 @@ My daughter made several pairs like that, you know. She's really quite something
 ## Optional equipment reminder
 
 ![[to_do_list#^try-chiral-boots]]
-
-

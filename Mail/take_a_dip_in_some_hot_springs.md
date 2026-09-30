@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "Take a Dip in Some Hot Springs!"
 sender: "Thomas Southerland"
-location: "Distribution Center South of Lake Knot City"
+location: "[[distribution_center_south_of_lake_knot_city]]"
 date_time: "09/14 20:39"
 tags: [mail]
 ---
 
-
-
 # Take a Dip in Some Hot Springs!
-
-**Sender:** Thomas Southerland  
-**Location:** Distribution Center South of Lake Knot City  
-**Date & Time:** 09/14 20:39
 
 Feeling tired, Sam? Wouldn't blame you. After all, you're not a machine—you need breaks and whatnot.
 

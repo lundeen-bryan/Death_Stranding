@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Tell Amelie We're True Believers"
 sender: "Jake Wind"
 location: "Wind Farm"
 date_time: "09/12 17:29"
 tags: [mail]
 ---
 
-
-
 # Tell Amelie We're True Believers
-
-**Sender:** Jake Wind  
-**Location:** Wind Farm  
-**Date & Time:** 09/12 17:29
 
 Dear Sam,
 
@@ -25,4 +18,3 @@ I suppose this is all a long-winded way of saying you ought to move on and meet 
 
 ---
 *Transcribed from DeathStranding_ 010.jpg. Decorative reaction icons omitted.*
-

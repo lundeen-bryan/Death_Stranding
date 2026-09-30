@@ -1,19 +1,12 @@
 ---
 date: 2026-09-14
-title: "Junk Disposal"
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 16:26"
 tags: [mail]
 ---
 
-
-
 # Junk Disposal
-
-**Sender:** The Junk Dealer  
-**Location:** S37-65  
-**Date & Time:** 09/14 16:26
 
 Sam Bridges,
 I have a job for you, should you be interested.
@@ -21,6 +14,10 @@ I have a job for you, should you be interested.
 There is a problem, however: some of the aforementioned waste products may be contaminated by chiralium, which means that the only safe place in which to dispose of them is the **crater lake** to the south.
 Should be easy enough for a Bridges man such as yourself, but it's up to you whether you take the job on or not.
 It would certainly help me view you and your kind more favorably if you were to agree to help me, however...
+
+## Location
+
+[[junk_dealer | The Junk Dealer - S37-65]]
 
 ---
 *Transcribed from DeathStranding_ 002.jpg (eight-mail batch after the Film Director delivery). Decorative reaction icons omitted. Yellow text rendered in bold.*
@@ -36,7 +33,6 @@ Sources: [Order 35 walkthrough](https://samurai-gamers.com/death-stranding/order
 ## Related notes
 
 - [[mission_log|Mission Log]]
-
 
 ## Screenshot supplied 2026-09-20
 

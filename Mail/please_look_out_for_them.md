@@ -4,8 +4,9 @@ sender: "The Chiral Artist's Mother"
 location: "S37-89"
 date_time: "09/14 21:51"
 tags: [mail]
-title: "Please Look Out for Them"
 ---
+
+# Please Look Out for Them
 
 Dear Sam,
 
