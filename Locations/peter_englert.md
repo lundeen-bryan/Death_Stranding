@@ -27,5 +27,3 @@ Peter Englert's shelter is the destination for his pizza request from Lake Knot 
 
 - [[Mail/a_humble_request_for_pizza|A Humble Request for Pizza]]
 - [[Mail/test_order_lambda_find_my_lost_cargo_please|[Test Order] [λ] Find my Lost Cargo, Please!]]
-
-

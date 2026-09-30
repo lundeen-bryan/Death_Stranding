@@ -18,5 +18,3 @@ aliases: [S02-01]
 ## Notes
 
 Related mail: [[Mail/order_delivery_to_port_knot_city|[Order] Delivery to Port Knot City]].
-
-

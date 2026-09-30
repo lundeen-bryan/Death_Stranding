@@ -5,7 +5,7 @@ tags: [locations]
 
 # Port Knot City
 
-**Region:** Eastern Region  
+**Region:** Eastern Region
 **Contact:** Viktor Frank
 
 ## Description
@@ -30,5 +30,3 @@ A port city on the crater lake at Ground Zero. It connects the Eastern Region wi
 ## Sources
 
 - [Death Stranding Wiki — Port Knot City](https://deathstranding.fandom.com/wiki/Port_Knot_City)
-
-

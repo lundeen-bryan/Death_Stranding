@@ -20,5 +20,3 @@ Manage completion in [[to_do_list|TO DO List]]. That list also contains the remi
 
 - [[Mail/junk_disposal|Junk Disposal]]
 - [[Mail/thanks_for_delivering_the_prototype|Thanks for Delivering the Prototype!]]
-
-

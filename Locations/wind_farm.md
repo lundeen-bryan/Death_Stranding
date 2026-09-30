@@ -5,7 +5,7 @@ tags: [locations]
 
 # Wind Farm
 
-**Region:** Eastern Region  
+**Region:** Eastern Region
 **Contact:** Jake Wind
 
 ## Description
@@ -25,6 +25,3 @@ A Bridges power facility northwest of the [[Locations/distribution_center_west_o
 ## Sources
 
 - [Death Stranding Wiki — Wind Farm](https://deathstranding.fandom.com/wiki/Wind_Farm)
-
-
-
