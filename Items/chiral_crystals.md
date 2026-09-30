@@ -5,8 +5,6 @@ tags: [items]
 
 # Chiral Crystals
 
-## Description
-
 Hand-shaped formations of chiralium used as a material for fabrication, building and maintaining structures and roads, and fueling floating carriers.
 
 ## Acquisition
@@ -22,5 +20,3 @@ Cannot be fabricated; gathered as a raw material used to fabricate other items.
 Related reading: [[Mail/chiralium|Chiralium]] — Heartman's interview discussing chiralium and its crystalline form.
 
 Source: [Death Stranding Wiki — Chiral Crystals](https://deathstranding.fandom.com/wiki/Chiral_Crystals), [Materials](https://deathstranding.fandom.com/wiki/Materials).
-
-
