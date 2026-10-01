@@ -1,0 +1,14 @@
+{
+	"obsidian_property": {
+		"prefix": "dsosp",
+		"body": [
+			"---",
+			"date: ${1:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}",
+			"aliases: [${2:aliases}]",
+			"tags: [${3:tags}]",
+			"---",
+			"# ${4:title}"
+		],
+		"description": "insert_obsidian_property_block for death stranding game"
+	}
+}
