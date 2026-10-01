@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "Slaves to the Wheat?"
 sender: "The Timefall Farmer"
 location: "S37-52"
 date_time: "09/14 22:26"
 tags: [mail]
 ---
 
-
-
 # Slaves to the Wheat?
-
-**Sender:** The Timefall Farmer  
-**Location:** S37-52  
-**Date & Time:** 09/14 22:26
 
 Dear Sam,
 
@@ -25,9 +18,16 @@ Anyhow, we've been doing some light reading to try and figure out what to do wit
 
 But it wasn't a one-way street. Oh no, wheat made out like a bandit. That obscure Middle-Eastern grass wound up spreading to all four corners of the globe. You could even say it was wheat that used us, and not the other way around! In fact, some scholars say just that—that we became slaves to wheat. What do you think about that, hmm? Are we about to become slaves all over again? I sure hope not!
 
+## Location
+
+[[locations/timefall_farm | S37-52]]
+
 ---
 *Transcribed from DeathStranding_ 004.jpg. Decorative reaction icons omitted. Yellow text rendered in bold.*
 
 ## Related notes
 
 - [[to_do_list|TO DO List]]
+
+<!-- @nested-tags:todo -->
+<!-- add the timefall farm to locations -->

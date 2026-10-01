@@ -1,15 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
+sender: "Benjamin H"
+location: "Distribution Center West of Capital Knot City"
 ---
 
-
-
 # [λ] You Really Are the Great Deliverer
-
-**Sender:** Benjamin H  
-**Location:** Distribution Center West of Capital Knot City  
-**Date & Time:** 09/11 21:19
 
 Thanks, Sam. You really are as great as they say. I knew I could trust you—and now I’m closer to achieving my goal!
 
@@ -19,4 +15,3 @@ Anyway, did you like those special glasses I gave you? “Gordon Glasses”, I c
 
 ---
 *Transcribed from DeathStranding_ 076.jpg. Decorative reaction and category icons omitted.*
-

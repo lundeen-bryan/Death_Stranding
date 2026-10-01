@@ -1,13 +1,10 @@
 ---
 date: 2026-09-14
-title: "[Test Order] [λ] You’ve Got to Find my Cube!"
 sender: "Thomas S"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 13:31"
 tags: [mail, cube, todo]
 ---
-
-
 
 # **[Test Order] [λ] You’ve Got to Find my Cube!**
 

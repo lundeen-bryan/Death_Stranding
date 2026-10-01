@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "Started Using Utility Pouches, Sam?"
 sender: "Viktor Frank"
 location: "Port Knot City"
 date_time: "09/14 20:38"
 tags: [mail]
 ---
 
-
-
 # Started Using Utility Pouches, Sam?
-
-**Sender:** Viktor Frank  
-**Location:** Port Knot City  
-**Date & Time:** 09/14 20:38
 
 Sam, my man!
 
@@ -32,7 +25,6 @@ Could be the beginning of a "virtuous" circle, if you ask me. The more you succe
 
 - [[utility_pouches|Utility Pouches]]
 - [[to_do_list|TO DO List]]
-
 
 ## Screenshot supplied 2026-09-20
 

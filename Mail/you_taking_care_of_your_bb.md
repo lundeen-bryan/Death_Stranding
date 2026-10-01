@@ -1,13 +1,11 @@
 ---
 date: 2026-09-18
 tags: [mail]
+sender: "Benjamin Hancock"
+location: [[distribution_center_west_of_capital_knot_city]]
 ---
 
 # You Taking Care of Your BB?
-
-**Sender:** Benjamin Hancock  
-**Location:** Distribution Center West of Capital Knot City  
-**Date & Time:** 09/18 13:46
 
 How are you doing, Sam? And how’s your BB? Me, I’m a bit worried. That’s why I’m writing you, actually... You see, I used to have a BB of my own, back in the day. I’d jack in whenever I went out on a run. Standard procedure and all that. Thing is—and this is just between you and me—I started... well, I started to care about my BB.
 
@@ -25,5 +23,3 @@ Man, I miss those days with the little guy... You’ll take good care of your BB
 
 ---
 *Transcribed from DeathStranding_ 002.jpg (09/18 13:46). Original yellow highlights preserved; reaction icons are preserved in the screenshot.*
-
-

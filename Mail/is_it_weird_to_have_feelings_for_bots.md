@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "Is It Weird to Have Feelings for Bots?"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 15:31"
 tags: [mail]
 ---
 
-
-
 # Is It Weird to Have Feelings for Bots?
-
-**Sender:** Thomas Southerland  
-**Location:** Distribution Center South of Lake Knot City  
-**Date & Time:** 09/15 15:31
 
 This stays between you and me, okay? I'm trusting you... Right, here goes. Thing is, I've come to have...feelings for the delivery bots. Nothing weird, just... You know how people are happy to see you when you drop by and worry about you when you're not around? Well, it's like that. For the bots. I can tell them apart. Know their every scratch, every patch of peeling paint, every little quirk. I know their...personalities. And if we lost one...I can't say I wouldn't shed a tear or two
 

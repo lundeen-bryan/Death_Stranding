@@ -1,13 +1,11 @@
 ---
 date: 2026-09-17
 tags: [mail]
+sender: Heartman
+location: "Bridges HQ Lab"
 ---
 
 # Chiralium
-
-**Who:** Heartman  
-**When:** Three Years Ago  
-**Where:** Bridges HQ Lab
 
 You would like to know more about chiralium? Well, wouldn't we all... I am happy to present the latest theories, but you must be aware that this is all that they are—theories.
 
@@ -23,6 +21,3 @@ Many of these claims are yet to be verified, but I believe that this is a fair s
 ## Notes
 
 Related item: [[Items/chiral_crystals|Chiral Crystals]].
-
-
-

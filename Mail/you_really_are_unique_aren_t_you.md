@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "You Really Are Unique, Aren't You?"
 sender: "The Film Director"
 location: "S23-71"
 date_time: "09/13 03:22"
 tags: [mail]
 ---
 
-
-
 # You Really Are Unique, Aren't You?
-
-**Sender:** The Film Director  
-**Location:** S23-71  
-**Date & Time:** 09/13 03:22
 
 Sam Bridges,
 
@@ -27,4 +20,3 @@ Well, you leave me no choice—next time you come through, bring that Q-pid of y
 
 ---
 *Transcribed from DeathStranding_ 015.jpg. Decorative reaction icons omitted.*
-

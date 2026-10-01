@@ -25,17 +25,17 @@ tags: [moc]
 | [[Missions/023_retrieval_system_server\|Order 023 - Retrieval: System Server]] | 023 | — | — | — |
 | [[Missions/024_prototype_bot_delivery_distribution_center_south_of_lake_knot_city\|Order 024 - Prototype Bot Delivery: Distribution Center South of Lake Knot City]] | 024 | — | — | — |
 | [[Missions/025_road_reconstruction\|Order 025 - Road Reconstruction]] | 025 | — | — | — |
-| [[Missions/026_urgent_fresh_pizza_delivery_peter_englert\|Order 026 - [URGENT] Fresh Pizza Delivery: Peter Englert]] | 026 | — | — | completed |
+| [[Missions/026_urgent_fresh_pizza_delivery_peter_englert\|Order 026 - URGENT Fresh Pizza Delivery: Peter Englert]] | 026 | — | — | completed |
 | [[Missions/027_chiralium_gauge_delivery_weather_station\|Order 027 - Chiralium Gauge Delivery: Weather Station]] | 027 | — | — | completed |
 | [[Missions/028_wheat_seed_delivery_timefall_farmers\|Order 028 - Wheat Seed Delivery: Timefall Farmers]] | 028 | — | — | completed |
 | [[Missions/029_construction_safe_house\|Order 029 - Construction: Safe House]] | 029 | — | — | — |
-| [[Missions/030_urgent_old_component_delivery_junk_dealer\|Order 030 - [URGENT] Old Component Delivery: Junk Dealer]] | 030 | — | — | completed |
+| [[Missions/030_urgent_old_component_delivery_junk_dealer\|Order 030 - URGENT Old Component Delivery: Junk Dealer]] | 030 | — | — | completed |
 | [[Missions/031_tablet_delivery_film_director\|31 - Tablet Delivery: Film Director]] | 31 | Distribution Center South of Lake Knot City | Film Director | completed |
 | [[Missions/032_collection_old_components\|Order 032 - Collection: Old Components]] | 032 | — | — | completed |
 | [[Missions/033_hourglass_delivery_chiral_artist\|Order 033 - Hourglass Delivery: Chiral Artist]] | 033 | — | — | completed |
 | [[Missions/034_delivery_to_junk_dealer_girlfriend\|Order 034 - Order Title]] | 034 | — | — | — |
 | [[Missions/035_prototype_delivery_distribution_center_south_of_lake_knot\|Order 035 - Prototype Delivery: Distro South of Lake Knot City]] | 035 | — | — | — |
-| [[Missions/071_v_recovery_chip_engraved_with_a_mysterious_symbol\|Order 071 - [V] Recovery: Chip Engraved with a Mysterious Symbol]] | 071 | — | — | completed |
+| [[Missions/071_v_recovery_chip_engraved_with_a_mysterious_symbol\|Order 071 - V Recovery: Chip Engraved with a Mysterious Symbol]] | 071 | — | — | completed |
 | [[Missions/077_collection_cargo_discovered_ruined_factory_distribution_center_w_of_capital_knot\|Order 077 - Collection: Cargo Discovered in Ruined Factory]] | 077 | — | — | — |
 | [[Missions/078_stealthy_collection_data_from_ruined_factory_distro_west_of_capital_knot\|Order 078 - Stealthy Collection: Data from the Ruined Factory Interior]] | 078 | — | — | — |
 | [[Missions/080_delivery_vog_preserved_liquid_metal_resources\|Order 080 - Delivery: Vog-Preserved Liquid Metal Resources]] | 080 | — | — | — |

@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Sending You Likes!"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/12 07:47"
 tags: [mail]
 ---
 
-
-
-# Sending You Likes!
-
-**Sender:** George Baton  
-**Location:** Waystation West of Capital Knot City  
-**Date & Time:** 09/12 07:47
+# Sending You Likes
 
 Still keeping on keeping on, Sam?
 

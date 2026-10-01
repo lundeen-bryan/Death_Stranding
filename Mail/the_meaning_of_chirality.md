@@ -1,6 +1,5 @@
 ---
 date: 2026-09-11
-title: "The Meaning of Chirality"
 sender: "Benjamin Hancock"
 location: "Distribution Center West of Capital Knot City"
 date_time: "09/18 04:23"
@@ -9,8 +8,8 @@ tags: [mail]
 
 # The Meaning of Chirality
 
-**Sender:** Benjamin Hancock  
-**Location:** Distribution Center West of Capital Knot City  
+**Sender:** Benjamin Hancock
+**Location:** Distribution Center West of Capital Knot City
 **Date & Time:** 09/18 04:23
 
 Dear Sam,
@@ -31,6 +30,3 @@ Anyway, all I know is that while I hope you keep on doing what you do to bring u
 ![[Misc_Tips/Attachments/mail_the_meaning_of_chirality_2026_09_18.jpg]]
 
 *Verified against the supplied 09/18 04:23 screenshot; original reaction icons are preserved above.*
-
-
-

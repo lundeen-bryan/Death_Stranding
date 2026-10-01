@@ -1,18 +1,15 @@
 ---
 date: 2026-09-12
-title: "Why Join the UCA?"
 sender: "The Elder"
 location: "S23-18"
 date_time: "09/12 19:03"
 tags: [mail]
 ---
 
-
-
 # Why Join the UCA?
 
-**Sender:** The Elder  
-**Location:** S23-18  
+**Sender:** The Elder
+**Location:** S23-18
 **Date & Time:** 09/12 19:03
 
 You still out there fighting the good fight, kiddo? I tip my hat to you for that. And for bringing an old curmudgeon his medicine. I'm doing a whole lot better for it. Much obliged.

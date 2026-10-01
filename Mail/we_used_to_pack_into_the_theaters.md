@@ -1,18 +1,15 @@
 ---
 date: 2026-09-14
-title: "We Used to Pack Into the Theaters"
 sender: "The Film Director"
 location: "S23-71"
 date_time: "09/14 19:46"
 tags: [mail]
 ---
 
-
-
 # We Used to Pack Into the Theaters
 
-**Sender:** The Film Director  
-**Location:** S23-71  
+**Sender:** The Film Director
+**Location:** S23-71
 **Date & Time:** 09/14 19:46
 
 I tried toying with that tablet you brought me. Such a flimsy, cheap thing, and yet it was capable of displaying all manner of video and imagery, courtesy of my contract with Bridges. I suppose it could be useful in some respects, but the experience is ultimately lacking.

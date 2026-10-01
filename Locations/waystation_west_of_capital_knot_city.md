@@ -5,7 +5,7 @@ tags: [locations]
 
 # Waystation West of Capital Knot City
 
-**Region:** Eastern Region  
+**Region:** Eastern Region
 **Contact:** George Baton
 
 ## Description
@@ -25,6 +25,3 @@ A Bridges waystation between Capital Knot City and the [[Locations/distribution_
 ## Sources
 
 - [Death Stranding Wiki — Waystation West of Capital Knot City](https://deathstranding.fandom.com/wiki/Waystation_West_of_Capital_Knot_City)
-
-
-

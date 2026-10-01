@@ -1,6 +1,5 @@
 ---
 date: 2026-09-20
-title: "Porters Coming Through Again!"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/20 18:32"
@@ -8,10 +7,6 @@ tags: [mail]
 ---
 
 # Porters Coming Through Again!
-
-**Sender:** The Craftsman  
-**Location:** S23-21  
-**Date & Time:** 09/20 18:32
 
 Hey Sam, remember that porter I told you about? He came round again—been by my old place, the one in the ruins, you know?
 
@@ -28,5 +23,3 @@ It's amazing what people can do when they put their minds to it—and when someo
 ![[Misc_Tips/Attachments/2026_09_20_evening/porters_coming_through.jpg]]
 
 *Transcribed from DeathStranding_ 008.jpg. Reaction symbols preserved above. This describes other porters' completed work, not a new recovery request for Sam.*
-
-

@@ -1,18 +1,15 @@
 ---
 date: 2026-09-14
-title: "The Bots Are Here... But Is That for the Best?"
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 12:13"
 tags: [mail]
 ---
 
-
-
 # The Bots Are Here... But Is That for the Best?
 
-**Sender:** Thomas Southerland  
-**Location:** Distribution Center South of Lake Knot City  
+**Sender:** Thomas Southerland
+**Location:** Distribution Center South of Lake Knot City
 **Date & Time:** 09/14 12:13
 
 Sam,
@@ -27,4 +24,3 @@ But is it for the best, I wonder, leaving everything to the bots? Isn't that wha
 
 - [[mules_and_drone_syndrome|MULEs and Drone Syndrome]]
 - [[drones_and_the_singularity|Drones and the Singularity]]
-

@@ -32,5 +32,3 @@ Pickup location for Peter Englert's requested pizza and the return destination f
 - [[Locations/peter_englert|Peter Englert]]
 - [[Mail/a_humble_request_for_pizza|A Humble Request for Pizza]]
 - [[Mail/test_order_lambda_find_my_lost_cargo_please|[Test Order] [λ] Find my Lost Cargo, Please!]]
-
-

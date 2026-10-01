@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "[Recovery Request] [V] Retrieve My Chip from the MULEs"
 sender: 'Your partner "J"'
 location: null
 date_time: "09/14 22:20"
 tags: [mail]
 ---
 
-
-
 # **[Recovery Request] [V] Retrieve My Chip from the MULEs**
-
-**Sender:** Your partner "J"  
-**Location:** Not shown  
-**Date & Time:** 09/14 22:20
 
 Hey there, Sam the man. It's J. Clear recall, memory bit recognized?
 
@@ -31,7 +24,6 @@ When you're up for it, you'll find the gig order waiting for you at **Lake Knot 
 - [[recovery_request_v_track_down_a_chip_with_a_weird_symbol_on_it|Recovery Request V Track Down a Chip with a Weird Symbol on It]]
 - [[v_thank_you_sam_porter_bridges|V Thank You, Sam Porter Bridges]]
 - [[to_do_list|TO DO List]] — second chip; accept the new order at Lake Knot City, then use its map update to locate the MULE postbox. Acceptance and completion have not been reported.
-
 
 ## Screenshot supplied 2026-09-20
 

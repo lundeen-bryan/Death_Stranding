@@ -1,18 +1,15 @@
 ---
 date: 2026-09-15
-title: "Thanks for Delivering the Prototype!"
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 22:04"
 tags: [mail]
 ---
 
-
-
 # Thanks for Delivering the Prototype!
 
-**Sender:** The Junk Dealer  
-**Location:** S37-65  
+**Sender:** The Junk Dealer
+**Location:** S37-65
 **Date & Time:** 09/14 22:04
 
 Sam,

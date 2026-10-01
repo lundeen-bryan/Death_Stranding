@@ -5,8 +5,8 @@ tags: [locations]
 
 # Weather Station
 
-**Region:** Central Region  
-**Contact:** Alex Weatherstone  
+**Region:** Central Region
+**Contact:** Alex Weatherstone
 **Connection:** Connected through completed [[Missions/027_chiralium_gauge_delivery_weather_station|Order 027 — Chiralium Gauge Delivery: Weather Station]]. Completion reported 2026-09-19; current star rating not recorded.
 
 ## Description
@@ -38,5 +38,3 @@ Listed rewards are reference information; earning 3 stars has not been reported.
 - [Death Stranding Wiki — Weather Station](https://deathstranding.fandom.com/wiki/Weather_Station) — facility background.
 - [Samurai Gamers — Order No. 27](https://samurai-gamers.com/death-stranding/order-no-27-chiralium-gauge-delivery-mission-walkthrough/) — approach and initial unlocks.
 - [Samurai Gamers — Connection Level Rewards](https://samurai-gamers.com/death-stranding/connection-level-rewards/) — contact and 3-star rewards.
-
-

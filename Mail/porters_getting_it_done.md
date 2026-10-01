@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Porters Getting It Done"
 sender: "The Craftsman"
 location: "S23-21"
 date_time: "09/13 03:22"
 tags: [mail]
 ---
 
-
-
 # Porters Getting It Done
-
-**Sender:** The Craftsman  
-**Location:** S23-21  
-**Date & Time:** 09/13 03:22
 
 Hey Sam, did you hear? One of the porters I hooked up with hematic grenades took down a BT the other day!
 
@@ -25,4 +18,3 @@ The info and tech I've received from Bridges just might be enough for me to star
 
 ---
 *Transcribed from DeathStranding_ 016.jpg. Decorative reaction icons omitted.*
-

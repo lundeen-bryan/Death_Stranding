@@ -1,19 +1,12 @@
 ---
 date: 2026-09-12
-title: "Don't Keep the Others Waiting"
 sender: "William Lake"
 location: "Lake Knot City"
 date_time: "09/12 16:41"
 tags: [mail]
 ---
 
-
-
 # Don't Keep the Others Waiting
-
-**Sender:** William Lake  
-**Location:** Lake Knot City  
-**Date & Time:** 09/12 16:41
 
 Hey Sam,
 
@@ -23,4 +16,3 @@ Sorry, don't mean to sound like I'm not grateful. I am—more than you know. Eve
 
 ---
 *Transcribed from DeathStranding_ 013.jpg. Decorative reaction icons omitted.*
-

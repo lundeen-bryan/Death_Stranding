@@ -1,19 +1,12 @@
 ---
 date: 2026-09-15
-title: "A Strange Light at the Incinerator"
 sender: "George Baton"
 location: "Waystation West of Capital Knot City"
 date_time: "09/14 22:20"
 tags: [mail]
 ---
 
-
-
 # A Strange Light at the Incinerator
-
-**Sender:** George Baton  
-**Location:** Waystation West of Capital Knot City  
-**Date & Time:** 09/14 22:20
 
 This is going to sound crazy, but you've got to believe me, Sam...
 
@@ -29,7 +22,6 @@ Somehow I make it into the incinerator without getting grabbed, and that's when 
 ## Related notes
 
 - [[to_do_list|TO DO List]] — optional investigation; the mail does not identify the glowing object or give a formal order.
-
 
 ## Screenshot supplied 2026-09-20
 

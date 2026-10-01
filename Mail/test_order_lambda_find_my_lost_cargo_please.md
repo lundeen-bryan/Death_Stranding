@@ -1,11 +1,10 @@
 ---
 date: 2026-09-12
 tags: [mail, todo-finished]
+sender: "William L"
+location: [[lake_knot_city]]
 ---
 # ==[Test Order] [λ] Find my Lost Cargo, Please!==
-
-**Sender:** William L
-**Location:** Lake Knot City
 
 Hey, Sam. The Great Deliverer, right? Benjamin told me all about you. Told me how much you like Half-Life. To be honest, though, I’m not sure I understand what it is you do. So why don’t you show me? Prove to me you’re a real badass.
 
@@ -15,4 +14,3 @@ Why you or anyone else would choose to make a living traipsing around with cargo
 
 ---
 *Transcribed from DeathStranding_ 005.jpg. Decorative reaction icons omitted. Original yellow highlights preserved.*
-

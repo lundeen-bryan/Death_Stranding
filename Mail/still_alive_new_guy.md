@@ -1,13 +1,11 @@
 ---
 date: 2026-09-11
 tags: [mail]
+sender: "Nick Easton"
+location: "[[locations/central_knot_city]]"
 ---
 
 # Still Alive, New Guy?
-
-**Sender:** Nick Easton  
-**Location:** Capital Knot City  
-**Date & Time:** 09/18 03:09
 
 Sam,
 
@@ -25,6 +23,3 @@ Anyway, both the recycling system and the share lockers have their uses, and itâ
 *Transcribed from DeathStranding_ 081.jpg. Decorative reaction and category icons omitted.*
 
 *Verified against DeathStranding_ 003.jpg (in-game date and time: 09/18 03:09).*
-
-
-

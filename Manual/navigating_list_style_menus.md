@@ -1,6 +1,6 @@
 ---
 date: 2026-09-11
-tags: [manual/menu, menu]
+tags: [manual/menu]
 ---
 
 

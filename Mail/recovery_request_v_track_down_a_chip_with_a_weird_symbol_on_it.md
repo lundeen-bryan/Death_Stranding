@@ -1,15 +1,10 @@
 ---
 date: 2026-09-12
 tags: [mail, todo]
+sender: "Thomas Southerland"
 ---
 
-
-
 # ==[Recovery Request] [V] Track Down a Chip with a Weird Symbol on It==
-
-**Sender:** Thomas Southerland
-**Location:** Distribution Center South of Lake Knot City
-**Date & Time:** 09/12 23:06
 
 Hey, Sam. How's every little thing?
 
@@ -23,8 +18,7 @@ Much obliged, as always.
 
 ## Location of mission
 
-
+[[distribution_center_south_of_lake_knot_city]]
 
 ---
 *Transcribed from DeathStranding_ 021.jpg. Decorative reaction icons omitted. Original yellow highlights preserved. The clipped opening of the subject has been reconstructed as “[Recovery Request].”*
-

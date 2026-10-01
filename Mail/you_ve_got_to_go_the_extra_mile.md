@@ -1,13 +1,11 @@
 ---
 date: 2026-09-12
 tags: [mail, todo]
+sender: "William Lake"
+location: [[lake_knot_city]]
 ---
 
 # You've Got to Go the Extra Mile!
-
-**Sender:** William Lake
-**Location:** Lake Knot City
-**Date & Time:** 09/12 20:28
 
 Thanks again, Sam. You really came through for us today!
 
