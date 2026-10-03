@@ -3,7 +3,7 @@ date: 2026-09-15
 sender: "T Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 18:16"
-tags: [mail]
+tags: [mail, todo]
 ---
 
 # **[Test Order] [λ] Sorry. More Lost Cargo for You...**

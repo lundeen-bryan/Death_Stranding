@@ -10,5 +10,59 @@
 			"# ${4:title}"
 		],
 		"description": "insert_obsidian_property_block for death stranding game"
-	}
+	},
+  "Death Stranding Order": {
+    "prefix": "dsord",
+    "description": "Create a Death Stranding order note",
+    "body": [
+      "---",
+      "type: order",
+      "order: ${1:000}",
+      "---",
+      "",
+      "# Order ${1:000} - ${2:Order Title}",
+      "",
+      "**From:** [[${3:origin}]]  ",
+      "**To:** [[${4:destination}]]  ",
+      "**Cargo:** [[${5:cargo}]]  ",
+      "**Weight:** ${6:0} kg  ",
+      "**Distance:** ${7:0} m  ",
+      "**Transport:** ${8|Foot,Trike,Truck|}",
+      "",
+      "## Mission",
+      "",
+      "${9:Mission description, route information, hazards, and anything important about completing the order.}",
+      "",
+      "## Notes",
+      "",
+      "- ${0}"
+    ]
+  }
+  "Death Stranding Item": {
+    "scope": "markdown",
+    "prefix": "dsitem",
+    "body": [
+      "---",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+      "---",
+      "",
+      "# ${1:Item Name}",
+      "",
+      "## Description",
+      "${2:What the item is and what it does.}",
+      "",
+      "## Acquisition",
+      "${3:How to obtain or unlock it.}",
+      "",
+      "## Fabrication",
+      "${4:Materials and quantities required.}",
+      "",
+      "## Notes",
+      "$0",
+      "",
+      "#items"
+    ],
+    "description": "Create an item note for the Death Stranding wiki"
+  }
+
 }

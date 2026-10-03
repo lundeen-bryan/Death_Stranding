@@ -3,7 +3,7 @@ date: 2026-09-15
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 22:04"
-tags: [mail]
+tags: [mail, todo]
 ---
 
 # Thanks for Delivering the Prototype!
