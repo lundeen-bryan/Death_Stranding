@@ -28,6 +28,3 @@ But it wasn't a one-way street. Oh no, wheat made out like a bandit. That obscur
 ## Related notes
 
 - [[to_do_list|TO DO List]]
-
-<!-- @nested-tags:todo -->
-<!-- add the timefall farm to locations -->

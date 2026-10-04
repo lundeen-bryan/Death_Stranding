@@ -3,7 +3,7 @@ date: 2026-09-15
 sender: "The Junk Dealer"
 location: "S37-65"
 date_time: "09/14 22:04"
-tags: [mail, todo]
+tags: [mail, todo-finished]
 ---
 
 # Thanks for Delivering the Prototype!
@@ -32,3 +32,8 @@ By the way, we've got a few more designs we're working on, so if you like the lo
 Same message; this screenshot shows **09/20 05:15**. Original reaction icons and symbols are preserved below; the earlier transcription date is retained.
 
 ![[Misc_Tips/Attachments/2026_09_20_review/thanks_for_delivering_the_prototype.jpg]]
+
+
+## Progress update — 2026-10-03
+
+Player confirms completing the Junk Dealer design delivery. Removed from active todo and tagged todo-finished.

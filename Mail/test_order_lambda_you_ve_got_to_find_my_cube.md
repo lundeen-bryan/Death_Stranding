@@ -3,7 +3,7 @@ date: 2026-09-14
 sender: "Thomas S"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 13:31"
-tags: [mail, cube, todo]
+tags: [mail, cube, todo-finished]
 ---
 
 # **[Test Order] [λ] You’ve Got to Find my Cube!**
@@ -25,3 +25,8 @@ My cube should be somewhere **==northwest of the distribution center south of La
 
 - [[test_order_lambda_find_my_lost_cargo_please|Test Order λ Find my Lost Cargo, Please!]]
 
+
+
+## Completion update — 2026-10-03
+
+Player reports believing this recovery is complete and having the first V chip, the ruined-factory cube recovery, and gravity gloves. Changed the task tag to `todo-finished` based on that report.

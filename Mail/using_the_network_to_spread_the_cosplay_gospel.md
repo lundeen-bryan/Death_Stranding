@@ -14,8 +14,13 @@ I don't think I've mentioned this before, but I've got a twin sister. Maybe you'
 
 ## Optional task
 
-- [ ] Visit the Cosplayer's twin sister if not already met. The mail does not give her name or location.
+- [ ] Visit the Cosplayer's twin sister if not already met. She is aka the Spiritualist and located northeast of Mountain Knot City
 
 ---
 *Transcribed from DeathStranding_ 004.jpg (batch reviewed 2026-10-03). Decorative reaction icons omitted; controller icons rendered as button names and yellow emphasis as bold where applicable.*
 
+
+
+## Progress update — 2026-10-03
+
+Player has not met the twin. The mail itself gives no name or location. Her identity is the Spiritualist, whose shelter is in the snowy mountains northeast of Mountain Knot City. Retained todo tag. Source: [Spiritualist](https://deathstranding.fandom.com/wiki/Spiritualist).

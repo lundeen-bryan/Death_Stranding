@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12
-tags: [mail, todo]
+tags: [mail]
 sender: "William Lake"
 location: "Lake Knot City"
 ---
@@ -26,3 +26,8 @@ And now they finally do, thanks to you. Could be the skeptics might finally come
 ## Related task
 
 [[to_do_list#^read-prepper-interviews|Read the available prepper interviews]].
+
+
+## Progress update — 2026-10-03
+
+Player reports personally reading most prepper interviews. General reading reminder retired; this does not claim every interview has been read.

@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12
-tags: [mail, todo]
+tags: [mail]
 sender: "William Lake"
 location: [[lake_knot_city]]
 ---
@@ -29,3 +29,8 @@ It may all seem like a hassle right now, Sam, but having a good Miscellaneous Gr
 The screenshot preserves the custom Miscellaneous Grade icon next to the highlighted explanation.
 
 ![[Misc_Tips/Attachments/mail_extra_mile_ending_2026-09-19.jpg]]
+
+
+## Progress update — 2026-10-03
+
+Removed todo tag at player request. General gameplay advice, not a specific outstanding task.

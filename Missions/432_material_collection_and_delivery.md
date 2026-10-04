@@ -50,3 +50,7 @@ Checked 2026-10-01:
 
 - [[Manual/floating_carriers|Floating Carriers]]
 - [[Manual/making_a_partial_delivery|Making a Partial Delivery]]
+
+## Progress update — 2026-10-03
+
+Player is unsure whether Order 432 was completed. Check Lake Knot City terminal > Standard Orders > Order 432 > Best Performance for a recorded result. Premium completion is separate: Not Completed under Premium Delivery does not establish that the normal order was never completed. Bridge Links > own profile > Orders provides aggregate statistics rather than a complete numbered job history. Retained todo pending verification. Source: [PowerPyx trophy guide](https://www.powerpyx.com/death-stranding-trophy-guide-roadmap/).

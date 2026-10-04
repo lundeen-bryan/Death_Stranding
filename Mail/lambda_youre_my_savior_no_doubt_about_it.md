@@ -3,7 +3,7 @@ date: 2026-10-03
 sender: "T Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "10/03 03:57"
-tags: [mail, todo]
+tags: [mail]
 ---
 
 # [λ] You're My Savior, No Doubt About It!
@@ -23,3 +23,8 @@ The mail acknowledges a returned cube and offers truck fabrication. It does not 
 ---
 *Transcribed from DeathStranding_ 007.jpg (batch reviewed 2026-10-03). Decorative reaction icons omitted; controller icons rendered as button names and yellow emphasis as bold where applicable.*
 
+
+
+## Progress update — 2026-10-03
+
+Truck unlock reminder retired following player confirmation that trucks are available. The exact special truck model offered by this mail and its fabrication remain unverified; ordinary Long Range levels should not be assumed to identify this reward.

@@ -3,7 +3,7 @@ date: 2026-10-01
 type: order
 order: 410
 status: completion-not-reported
-tags: [missions, todo]
+tags: [missions]
 ---
 
 # Standard Order 410 - Delivery: Old Board Game — "The Big Delivery"
@@ -41,3 +41,7 @@ Checked 2026-10-01:
 
 - [[Missions/035_prototype_delivery_distribution_center_south_of_lake_knot|Order 35 — Prototype Delivery]]
 - [[Mail/thanks_for_delivering_the_prototype|Thanks for Delivering the Prototype!]]
+
+## Progress update — 2026-10-03
+
+Truck unlock goal achieved. Player confirms trucks unlocked, with Long Range levels 1 and 2 believed available. Order 410 itself remains unconfirmed; removed from active todo because the unlock no longer requires this reminder. The mission log records a truck after Order 391 and Long Range Lv. 2 after Order 81.

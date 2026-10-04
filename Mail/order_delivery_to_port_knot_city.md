@@ -12,3 +12,8 @@ Sorry, Sam, I know you're a busy man, but I need you to deliver something to a g
 
 ---
 *Transcribed from DeathStranding_ 014.jpg. Decorative reaction icons omitted. Original yellow highlights preserved.*
+
+
+## Progress update — 2026-10-03
+
+Player has not yet returned to the Ludens Fan. Still open; player considers this a manageable next task.

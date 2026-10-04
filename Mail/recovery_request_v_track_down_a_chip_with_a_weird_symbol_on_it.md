@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12
-tags: [mail, todo]
+tags: [mail, todo-finished]
 sender: "Thomas Southerland"
 ---
 
@@ -22,3 +22,8 @@ Much obliged, as always.
 
 ---
 *Transcribed from DeathStranding_ 021.jpg. Decorative reaction icons omitted. Original yellow highlights preserved. The clipped opening of the subject has been reconstructed as “[Recovery Request].”*
+
+
+## Completion update — 2026-10-03
+
+Player reports believing this recovery is complete and having the first V chip, the ruined-factory cube recovery, and gravity gloves. Changed the task tag to `todo-finished` based on that report.

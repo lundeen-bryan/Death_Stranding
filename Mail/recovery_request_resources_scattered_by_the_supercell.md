@@ -23,3 +23,8 @@ The later [[the_materials_are_back_in_one_piece|materials thank-you mail]] ackno
 ---
 *Transcribed from DeathStranding_ 023.jpg (batch reviewed 2026-10-03). Decorative reaction icons omitted; controller icons rendered as button names and yellow emphasis as bold where applicable.*
 
+
+
+## Progress update — 2026-10-03
+
+Player recalls completing a recovery near the waterfall, consistent with the later materials thank-you mail. Material recovery is treated as completed; only the separate glowing collectible remains unconfirmed. Look at the base of the large waterfall northwest of South Knot City, roughly halfway toward the Weather Station. Follow the shore on the west side to a small alcove. The nearby collectible is Memory Chip 31, Reverse Trike: Ride Type. Check the collected memory-chip list before making another trip. Source: [PowerPyx memory chip locations](https://www.powerpyx.com/death-stranding-all-memory-chip-locations-collectibles/).

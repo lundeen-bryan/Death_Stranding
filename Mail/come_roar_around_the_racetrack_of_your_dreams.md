@@ -3,7 +3,7 @@ date: 2026-09-15
 sender: "Thomas Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/14 22:04"
-tags: [mail, todo]
+tags: [mail, todo-deferred]
 ---
 
 # **Come Roar Around the Racetrack of Your Dreams!**
@@ -41,3 +41,8 @@ Same message; this screenshot shows **09/20 05:15**. Original reaction icons and
 ![[Misc_Tips/Attachments/2026_09_20_review/come_roar_around_the_racetrack_of_your_dreams.jpg]]
 
 ![[Misc_Tips/Attachments/2026_09_20_review/racetrack_continued.jpg]]
+
+
+## Progress update — 2026-10-03
+
+Player prefers postponing racetrack construction. Tagged todo-deferred instead of todo so it is outside the active todo notes; construction and racing remain unfinished.

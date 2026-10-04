@@ -3,7 +3,7 @@ date: 2026-09-15
 sender: "T Southerland"
 location: "Distribution Center South of Lake Knot City"
 date_time: "09/15 18:16"
-tags: [mail, todo]
+tags: [mail, todo-finished]
 ---
 
 # **[Test Order] [λ] Sorry. More Lost Cargo for You...**
@@ -21,3 +21,8 @@ Anyway, back to business: to find the cube, **make your way to the Craftsman's s
 
 - [[lambda_you_re_the_real_deal|λ You're the Real Deal!]]
 - [[to_do_list|TO DO List]] — New cube recovery at the ruined factory west-northwest of the Craftsman; completion not reported.
+
+
+## Completion update — 2026-10-03
+
+Player reports believing this recovery is complete and having the first V chip, the ruined-factory cube recovery, and gravity gloves. Changed the task tag to `todo-finished` based on that report.

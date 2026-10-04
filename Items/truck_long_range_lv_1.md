@@ -2,7 +2,7 @@
 date: 2026-10-03
 title: "Truck: Long Range (Lv. 1)"
 status: blueprint-available
-tags: [items, vehicles, todo]
+tags: [items, vehicles]
 ---
 
 # Truck: Long Range (Lv. 1)
@@ -39,3 +39,8 @@ This confirms blueprint availability but does not establish which order triggere
 ---
 *Transcribed from DeathStranding_ 003.jpg (batch reviewed 2026-10-03). Yellow emphasis rendered in bold. The scrolling notice above the description is cut off and is not transcribed.*
 
+
+
+## Progress update — 2026-10-03
+
+Truck unlocked. Player reports Long Range levels 1 and 2 available for fabrication; actual fabrication is not yet reported. The 16-ceramic shortage above is an old screenshot snapshot, not a current task. The mission log also records the Long Range Lv. 2 unlock after Order 81.
