@@ -4,7 +4,7 @@ tags: [moc]
 
 # Interviews MOC
 
-45 notes. Select a title to open its note. A dash means the detail is not recorded in the note’s metadata or labeled fields.
+50 notes. Select a title to open its note. A dash means the detail is not recorded in the note’s metadata or labeled fields.
 
 | Interview | Speaker | Subject / category | When |
 | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ tags: [moc]
 | [[Interviews/bb_echolocation\|BB Echolocation]] | Deadman | — | One Year Ago |
 | [[Interviews/bridge_babies\|Bridge Babies]] | Deadman | — | One Year Ago |
 | [[Interviews/bts_are_reaching_out_to_us\|BTs are Reaching Out to Us]] | Heartman | — | Three Years Ago |
+| [[Interviews/bts_come_in_all_shapes_and_sizes\|BTs Come in All Shapes and Sizes]] | Heartman | — | Two Years Ago |
 | [[Interviews/chiral_contamination_i\|Chiral Contamination I]] | Heartman | — | Three Years Ago |
 | [[Interviews/chiral_contamination_ii\|Chiral Contamination II]] | Heartman | — | Three Years Ago |
 | [[Interviews/chiral_symmetry\|Chiral Symmetry]] | Heartman | — | Three Years Ago |
@@ -34,15 +35,17 @@ tags: [moc]
 | [[Interviews/journal_8\|Journal #8]] | Unknown | An Unknown Man's Journal | Writing year unknown |
 | [[Interviews/journal_9\|Journal #9]] | Unknown | An Unknown Man's Journal | Writing year unknown |
 | [[Interviews/likes_secrete_oxytocin\|Likes Secrete Oxytocin]] | Die-Hardman | — | Four Years Ago |
-| [[Interviews/memo_1_a_call_to_arms\|Memo 1 a call to arms]] | — | — | — |
 | [[Interviews/memo_2_from_mother_to_daughter\|Memo #2: From Mother to Daughter]] | Unknown | — | Unknown |
+| [[Interviews/memo_1_a_call_to_arms\|Memo 1 a call to arms]] | — | — | — |
 | [[Interviews/mules_and_drone_syndrome\|MULEs and Drone Syndrome]] | Die-Hardman | — | Two Years Ago |
 | [[Interviews/mules_and_local_porters\|MULEs and Local Porters]] | Die-Hardman | — | Two Years Ago |
 | [[Interviews/necrosis_and_the_ancient_egyptian_view_of_life_and_death\|Necrosis and the Ancient Egyptian View of Life and Death]] | Heartman | — | Three Years Ago |
+| [[Interviews/oxytocin\|Oxytocin]] | Viktor | — | Two and a Half Years Ago |
 | [[Interviews/prepper_interview_the_junk_dealer\|Prepper Interview: The Junk Dealer]] | The Junk Dealer | Preppers | Six Months Ago |
 | [[Interviews/prepper_interview_the_timefall_farmers\|Prepper Interview: The Timefall Farmers]] | The Timefall Farmer | Preppers | One Year Ago |
 | [[Interviews/prepper_shelters\|Prepper Shelters]] | The Elder | Preppers | Two Years Ago |
 | [[Interviews/preppers\|Preppers]] | Fragile | — | Two Years Ago |
+| [[Interviews/repatriates_and_voidouts\|Repatriates and Voidouts]] | Heartman | — | Three Years Ago |
 | [[Interviews/terrorists_posing_as_fragile_express_couriers\|Terrorists Posing as Fragile Express Couriers]] | The Craftsman | Preppers | One Year Ago |
 | [[Interviews/the_chiral_network_experiments_between_central_and_capital_i\|The Chiral Network Experiments Between Central and Capital I]] | Die-Hardman | — | One Year and Some Months Ago |
 | [[Interviews/the_chiral_network_experiments_between_central_and_capital_ii\|The Chiral Network Experiments Between Central and Capital II]] | Die-Hardman | — | One Year Ago |
@@ -50,6 +53,8 @@ tags: [moc]
 | [[Interviews/the_chiral_network_ii\|The Chiral Network II]] | Mama | — | Three Years Ago - Before First Expediti [clipped] |
 | [[Interviews/the_discovery_of_beaches_and_the_concept_of_death\|The Discovery of Beaches and the Concept of Death]] | Heartman | — | Three Years Ago |
 | [[Interviews/the_egyptian_view_of_the_brain\|The Egyptian View of the Brain]] | Heartman | — | Three Years Ago |
+| [[Interviews/the_history_of_the_odradek\|The History of the Odradek]] | Heartman | — | Two Years Ago |
 | [[Interviews/the_lake_at_ground_zero\|The Lake at Ground Zero]] | Viktor | Bridges Staff | Two and a Half Years Ago |
 | [[Interviews/timefall\|Timefall]] | Heartman | — | Three Years Ago |
 | [[Interviews/timefall_and_power_failures\|Timefall and Power Failures]] | Igor | — | Three Years Ago |
+| [[Interviews/why_planes_and_drones_can_t_fly\|Why Planes and Drones Can't Fly]] | Igor | — | Three Years Ago |
